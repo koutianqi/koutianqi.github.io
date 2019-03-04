@@ -4,9 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am currently a master student at Fordham University. 
-	I'm using this gitpage as a project to learn about 
-	git and web development. Happy coding.</p>
+<p>Researcher with experience in statistics and machine learning. Exploring data science to make my work easier and this world a better place. cinephile/cyclist/runner/hiker/fake philosopher</p>
 
 
 <h2>Skills</h2>
@@ -14,17 +12,18 @@ layout: page
 <ul class="skill-list">
 	<li>Python</li>
 	<li>R</li>
-	<li>MySQL</li>
+	<li>SQL</li>
 	<li>Scala</li>
 	<li>Spark</li>
 	<li>Git</li>
-	<li>Java</li>
-	<li>HTML</li>
+	<li>JavaScript</li>
+	<li>Matlab</li>
+	<li>Octave</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/zoelland/Machine-Learning">Machine Learning</a></li>
-	<li><a href="https://github.com/zoelland/Big-Data">Big Data Programming</a></li>
+	<li><a href="https://github.com/koutianqi/Machine_Learning_Project">Machine Learning 1</a></li>
+	<li><a href="https://github.com/koutianqi/March_Data_Cruntch_Madness">Machine Learning 2</a></li>
 </ul>
