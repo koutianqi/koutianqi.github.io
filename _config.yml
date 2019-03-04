@@ -1,5 +1,5 @@
 # main text of home
-name: Hao Liu
+name: Tianqi Kou
 bio: I can learn
 
 # twitter summary info
@@ -53,8 +53,8 @@ github: koutianqi
 email: koutianqi@gmail.com
 
 authors:
-    HaoLiu:
-        name: Hao Liu
+    TianqiKou:
+        name: Tianqi Kou
         bio: none for now
         external-image: false
         picture: assets/images/profile.jpg
