@@ -10,15 +10,18 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>Python</li>
-	<li>R</li>
-	<li>SQL</li>
-	<li>Scala</li>
-	<li>Spark</li>
-	<li>Git</li>
-	<li>JavaScript</li>
-	<li>Matlab</li>
-	<li>Octave</li>
+	skillful level: 0 - ✯✯✯✯✯
+	✯-single star
+	✰-half star
+	<li>Python✯✯✯✯</li>      
+	<li>R✯✯✯✰</li> 
+	<li>SQL✯✯✯✯</li>
+	<li>Scala✯✯✰</li>
+	<li>Spark✯✯✰</li>
+	<li>Git✯✯✯</li>
+	<li>JavaScript✯✰</li>
+	<li>Matlab✯✯✯</li>
+	<li>Octave✯✯</li>
 </ul>
 
 <h2>Projects</h2>
