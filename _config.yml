@@ -1,9 +1,9 @@
 # main text of home
 name: Hao Liu
-bio: New to Coding
+bio: I can learn
 
 # twitter summary info
-description: Look what I've learned!
+description: I really can learn
 
 # if it's an external image, update below for true
 # better with square images
@@ -16,7 +16,7 @@ resume: false
 resume-external: false
 resume-url: assets/images/resume.jpg
 
-url: https://zoelland.github.io
+url: https://koutianqi.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -39,10 +39,10 @@ disqus:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: zluxyoe
+linkedin: koutianqi
 # youtube: myyoutube
 # spotify: myspotify
-github: zoelland
+github: koutianqi
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -50,7 +50,7 @@ github: zoelland
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: zluxyoe@gmail.com
+email: koutianqi@gmail.com
 
 authors:
     HaoLiu:
@@ -59,12 +59,6 @@ authors:
         external-image: false
         picture: assets/images/profile.jpg
         twitter: mytwitter
-    FranklinLiu:
-        name: Franklin Liu
-        bio: An Engineer
-        external-image: false
-        picture: assets/images/profile.jpg
-        twitter: 
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
