@@ -10,9 +10,7 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>skillful level: 0 - ✯✯✯✯✯
-	/✯-single star
-	/✰-half star</li>
+	<li>skillful level:0-✯✯✯✯✯/ ✯-single star/ ✰-half star</li>
 	<li>Python✯✯✯✯</li>      
 	<li>R✯✯✯✰</li> 
 	<li>SQL✯✯✯✯</li>
