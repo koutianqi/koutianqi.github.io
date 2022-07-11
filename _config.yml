@@ -80,10 +80,10 @@ analytics:
 author:
   name             : "Tianqi Kou"
   avatar           : "profile.jpg"
-  bio              : "PhD Student at IST @ Pennsylvania State University, Transparency of Machine Learning."
+  bio              : "PhD Student at IST @ Pennsylvania State University, Machine Learning Epistemology"
   location         : "State College, PA"
   employer         :
-  googlescholar    : "https://scholar.google.es/citations?user=rfSDQy8AAAAJ&hl=es&oi=ao"
+  googlescholar    :
   email            :
   uri              :
   bitbucket        :
@@ -98,13 +98,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "koutianqi1"
   vine             :
   weibo            :
   xing             :
