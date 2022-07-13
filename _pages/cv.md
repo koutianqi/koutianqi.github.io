@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -29,17 +29,6 @@ Work experience
   * Fordham University
   * Supervisor: Dr. Yijun Zhao
 
-Awards
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
@@ -47,9 +36,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  * IST230 Language, Logic, and Discrete Mathematics, Pennsylvania State University
+
  * IST310 Machine Learning, Pennsylvania State University
+
  * SDGB7844 Statistical Methods and Computation, Fordham University
- 
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
