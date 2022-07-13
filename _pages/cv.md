@@ -32,9 +32,6 @@ Work experience
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
  * IST230 Language, Logic, and Discrete Mathematics, Pennsylvania State University
 
  * IST310 Machine Learning, Pennsylvania State University
