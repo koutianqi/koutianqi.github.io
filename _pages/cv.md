@@ -11,32 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in Economics, Harbin Institute of Technology, 2017
-* M.S. in Machine Learning, Fordham University, 2019
 * Ph.D in Informatics, The Pennsylvia State University, 2025 (expected)
-
+* M.S. in Machine Learning, Fordham University, 2019
+* B.S. in Economics, Harbin Institute of Technology, 2017
+Exchange student at Monash University, 2016
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 Fall - 2021 Spring: Research Assistant
+  * Supervisors: Dr. Sarah Rajtmajer and Dr. Anna Squicciarini
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2019: Data Scientist
+  * Apteo
 
-Publications
+* 2017-2019: Research Assistant
+  * Fordham University
+  * Supervisor: Dr. Yijun Zhao
+
+Awards
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
