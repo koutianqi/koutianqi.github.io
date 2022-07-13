@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Economics, Harbin Institute of Technology, 2017
+* M.S. in Machine Learning, Fordham University, 2019
+* Ph.D in Informatics, The Pennsylvia State University, 2025 (expected)
 
 Work experience
 ======
