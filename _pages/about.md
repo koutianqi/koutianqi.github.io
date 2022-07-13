@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D student at the College of Information Science and Technology at The Pennsylvania State University. I am fortunately to be co-advised by Dr. Fred Fonseca and Dr. Daniel Susser. My research concerns epistemology of machine learning. More concretely, I am interested in answering relevant epistemological questions to develop methods of justification for machine learning research. Amid replication crisis, robust justification that survey the scope of the entirety of machine learning research lifecycle(from inception to application) must be addressed for us to attribute trust to machine learning research claims.
+I am a second year Ph.D student at the College of Information Science and Technology at The Pennsylvania State University. I am fortunate to be co-advised by Dr. Fred Fonseca and Dr. Daniel Susser. My research concerns epistemology of machine learning.
 
 Research
 -----
