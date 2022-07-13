@@ -14,7 +14,8 @@ Education
 * Ph.D in Informatics, The Pennsylvia State University, 2025 (expected)
 * M.S. in Machine Learning, Fordham University, 2019
 * B.S. in Economics, Harbin Institute of Technology, 2017
-Exchange student at Monash University, 2016
+* Exchange student at Monash University, 2016
+
 Work experience
 ======
 * 2020 Fall - 2021 Spring: Research Assistant
