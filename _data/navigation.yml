@@ -7,11 +7,11 @@ main:
   #- title: "News"#
     #url: /news/#
   
-  - title: "Publications"
-    url: /publications/  
+  #- title: "Publications"#
+    #url: /publications/#  
 
-  - title: "Teaching"
-    url: /teaching/
+  #- title: "Teaching"#
+    #url: /teaching/#
         
   - title: "Blog Posts"
     url: /year-archive/
