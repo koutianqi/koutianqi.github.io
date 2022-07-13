@@ -19,12 +19,13 @@ Education
 Work experience
 ======
 * 2020 Fall - 2021 Spring: Research Assistant
+  * Pennsylvania State University
   * Supervisors: Dr. Sarah Rajtmajer and Dr. Anna Squicciarini
 
 * 2019: Data Scientist
   * Apteo
 
-* 2017-2019: Research Assistant
+* 2017 Fall - 2018 Winter: Research Assistant
   * Fordham University
   * Supervisor: Dr. Yijun Zhao
 
@@ -45,7 +46,10 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+ * IST230 Language, Logic, and Discrete Mathematics, Pennsylvania State University
+ * IST310 Machine Learning, Pennsylvania State University
+ * SDGB7844 Statistical Methods and Computation, Fordham University
+ 
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
