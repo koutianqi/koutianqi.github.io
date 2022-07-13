@@ -2,7 +2,9 @@
 main:
 
   - title: "Research"
-
+  
+  - title: "News"
+  
   - title: "Publications"
     url: /publications/  
 
