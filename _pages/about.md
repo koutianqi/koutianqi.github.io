@@ -12,7 +12,9 @@ I am a second year Ph.D student at the College of Information Science and Techno
 
 area of research
 -----
-My research concerns epistemology of machine learning. More concretely, I am interested in answering relevant epistemological questions to develop methods of justification for machine learning research. Amid replication crisis, robust justification that survey the scope of the entirety of machine learning research lifecycle(from inception to application) must be addressed for us to attribute trust to machine learning research claims.
+My research concerns the epistemology of machine learning.
+
+More concretely, I am interested in answering relevant epistemological questions to develop methods of justification for machine learning research amid replication crisis in [<span style="color:blue">applied machine learning research</span>](https://reproducible.cs.princeton.edu), robust justification in publications that survey the scope of entire machine learning research lifecycle(from inception to application) is essential for us attribute trust to machine learning research claims.
 
 research experiences
 -----
