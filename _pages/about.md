@@ -20,28 +20,28 @@ research experiences
 -----
 * (ongoing) Epistemology of machine learning
 
-* (ongoing)Exploring librarians' role in developing children's privacy literacy through interviews and curricula analysis
-  * Supervisor: Dr. Priya Kumar
-  * Funded by the College of IST
+* (ongoing)Exploring K-16 school librarians' role in developing children's privacy literacy through interviews and curricula analysis
+  * Supervisor: [<span style="color:blue">Dr. Priya Kumar</span>](https://priyakumar.org)
+  * [<span style="color:blue">Funded by the College of IST</span>](https://ist.psu.edu/research/projects/privacy-literacy)
 
 * Developing a variant of Surrogate Scoring Rule using Hierarchical Mutual Information to score participants judgments of study reproducibility without ground truth
-  * Supervisors: Dr. Sarah Rajtmajer and Dr. David Pennock(Rutgers)
-  * Funded by DARPA ([link](https://www.ist.psu.edu/research/projects/synthetic-prediction-markets))
+  * Supervisors: [<span style="color:blue">Dr. Sarah Rajtmajer</span>] and [<span style="color:blue">Dr. David Pennock</span>(Rutgers University)](http://dpennock.com)
+  * [<span style="color:blue">Funded by DARPA</span>](https://www.ist.psu.edu/research/projects/synthetic-prediction-markets)
 
 * Detecting self-disclosure dynamics on twitter during COVID-19 pandemic using network analysis
   * Supervisors: Dr. Sarah Rajtmajer and Dr. Anna Squicciarini
-  * Funded by NSF ([link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2027757&HistoricalAwards=false))
+  * [<span style="color:blue">Funded by NSF</span>](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2027757&HistoricalAwards=false)
 
 * Developing a semi-supervised variant of SVM using privileged informtion
-  * Supervisor: Dr. Yijun Zhao
+  * Supervisor: [<span style="color:blue">Dr. Yijun Zhao</span>](https://storm.cis.fordham.edu/~yzhao/?_ga=2.218085652.367810544.1657822674-154963080.1657822674)
   * Funded by Graduate School at Fordham University
 
 News
 -----
-2022/06 marched in pride parade at State College with queer people
-2022/05 nominated internally by the College of IST for 2022 Microsoft Ph.D Fellowship along three fellow researchers!
-2021/11 passed qualifying exam
-2020/08 joined Penn State IST
+*2022/06 marched in pride parade at State College with queer people
+*2022/05 nominated internally by the College of IST for 2022 Microsoft Ph.D Fellowship along three fellow researchers!
+*2021/11 passed qualifying exam
+*2020/08 joined Penn State IST!
 
 Contact
 -----
