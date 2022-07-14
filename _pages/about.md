@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D student at the College of Information Science and Technology at The Pennsylvania State University. I am fortunate to be co-advised by Dr. Fred Fonseca and Dr. Daniel Susser.
+I am a second year Ph.D student at the College of Information Science and Technology at The Pennsylvania State University. I am fortunate to be co-advised by Dr. Fred Fonseca [link](https://ist.psu.edu/directory/fuf1) and Dr. Daniel Susser [link](http://www.danielsusser.info).
+
+<span style="color:blue">some *blue* text</span>
 
 area of research
 -----
@@ -34,7 +36,12 @@ research experiences
   * Supervisor: Dr. Yijun Zhao
   * Funded by Graduate School at Fordham University
 
-
+News
+-----
+2022/06 marched in pride parade at State College with queer people
+2022/05 nominated internally by the College of IST for 2022 Microsoft Ph.D Fellowship along three fellow researchers!
+2021/11 passed qualifying exam
+2020/08 joined Penn State IST
 
 Contact
 -----
