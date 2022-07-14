@@ -9,7 +9,7 @@ Research Experience
 -----
 * Detecting self-disclosure dynamics on twitter during COVID-19 pandemic using network analysis
   * Supervised: Dr. Sarah Rajtmajer and Dr. Anna Squicciarini
-  * Funded by
+  * Funded by [RAPID: Social Un-distancing: Understanding self-privacy violations in online communities during the Coronavirus pandemic](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2027757&HistoricalAwards=false)
 
 * 2017 Fall - 2018 Winter: Research Assistant
   * Fordham University
