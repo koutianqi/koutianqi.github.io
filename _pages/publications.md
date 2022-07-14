@@ -5,9 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-Research Experience
+Funded Research
 -----
-* Exploring librarians' role in developing children's privacy literacy through interviews and curricula analysis
+* (ongoing) Epistemology of machine learning
+
+* (ongoing)Exploring librarians' role in developing children's privacy literacy through interviews and curricula analysis
   * Supervisor: Dr. Priya Kumar
   * Funded by the College of IST
 
