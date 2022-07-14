@@ -14,7 +14,7 @@ area of research
 -----
 My research concerns the epistemology of machine learning.
 
-More concretely, I am interested in answering relevant epistemological questions to develop methods of justification for machine learning research amid replication crisis in [<span style="color:blue">applied machine learning research</span>](https://reproducible.cs.princeton.edu), robust justification in publications that survey the scope of entire machine learning research lifecycle(from inception to application) is essential for us attribute trust to machine learning research claims.
+More concretely, I am interested in answering relevant epistemological questions to develop methods of justification for machine learning research amid [<span style="color:blue">replication crisis in applied machine learning research</span>](https://reproducible.cs.princeton.edu), robust justification in publications that survey the scope of entire machine learning research lifecycle(from inception to application) is essential for us attribute trust to machine learning research claims.
 
 research experiences
 -----
@@ -38,11 +38,12 @@ research experiences
 
 News
 -----
-*2022/06 marched in pride parade at State College with queer people
-*2022/05 nominated internally by the College of IST for 2022 Microsoft Ph.D Fellowship along three fellow researchers!
-*2021/11 passed qualifying exam
-*2020/08 joined Penn State IST!
+*2022/06 marched in pride parade at State College with queer people\
+*2022/05 nominated internally by the College of IST for 2022 Microsoft Ph.D Fellowship along three fellow researchers!\
+*2021/11 passed qualifying exam\
+*2020/08 joined Penn State IST!\
 
 Contact
 -----
 email: tfk5237@psu.edu
+
