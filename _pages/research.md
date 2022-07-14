@@ -14,6 +14,10 @@ Research
 -----
 My research concerns epistemology of machine learning. More concretely, I am interested in answering relevant epistemological questions to develop methods of justification for machine learning research. Amid replication crisis, robust justification that survey the scope of the entirety of machine learning research lifecycle(from inception to application) must be addressed for us to attribute trust to machine learning research claims.
 
+
+Working with Dr. Sarah Rajtmajer and Dr. Anna Squicciarini (https://www.nsf.gov/awardsearch/showAward?AWD_ID=2027757&HistoricalAwards=false)
+
+
 Contact
 -----
 email: tfk5237@psu.edu
