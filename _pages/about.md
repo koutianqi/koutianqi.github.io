@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D student at the College of Information Science and Technology at The Pennsylvania State University. I am fortunate to be co-advised by Dr. Fred Fonseca and Dr. Daniel Susser. My research concerns epistemology of machine learning.
+I am a second year Ph.D student at the College of Information Science and Technology at The Pennsylvania State University. I am fortunate to be co-advised by Dr. Fred Fonseca and Dr. Daniel Susser.
 
 Research
 -----
