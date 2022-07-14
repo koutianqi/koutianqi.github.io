@@ -14,7 +14,7 @@ area of research
 -----
 My research is about the [<span style="color:blue">epistemology</span>](https://plato.stanford.edu/entries/epistemology/) of machine learning.
 
-I am interested in answering relevant epistemological questions to develop **methods of justification** for machine learning research amid **[<span style="color:blue">replication crisis in applied machine learning research</span>](https://reproducible.cs.princeton.edu)**, robust justification in publications that survey the scope of entire machine learning research lifecycle (from inception to application) is essential for us attribute trust to machine learning research claims as **[<span style="color:blue">knowledge</span>](https://iep.utm.edu/knowledg/)**. Benchmarking has been failing us but there is a way out.
+I am interested in answering relevant epistemological questions to develop **methods of justification** for machine learning research amid **[<span style="color:blue">replication crisis in applied machine learning research</span>](https://reproducible.cs.princeton.edu)**, robust justification in publications that survey the scope of entire machine learning research lifecycle (from inception to application) is essential for us attribute trust to machine learning research claims as **[<span style="color:blue">knowledge</span>](https://iep.utm.edu/knowledg/)**
 
 research experiences
 -----
