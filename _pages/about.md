@@ -18,9 +18,9 @@ More concretely, I am interested in answering relevant epistemological questions
 
 research experiences
 -----
-* (ongoing) Epistemology of machine learning
+* (**ongoing**) Epistemology of machine learning(concise and general on purpose:D)
 
-* (ongoing)Exploring K-16 school librarians' role in developing children's privacy literacy through interviews and curricula analysis
+* (**ongoing**) Exploring K-16 school librarians' role in developing children's privacy literacy through interviews and curricula analysis
   * Supervisor: [<span style="color:blue">Dr. Priya Kumar</span>](https://priyakumar.org)
   * [<span style="color:blue">Funded by the College of IST</span>](https://ist.psu.edu/research/projects/privacy-literacy)
 
