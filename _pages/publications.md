@@ -7,17 +7,9 @@ author_profile: true
 
 Research Experience
 -----
-*Detecting self-disclosure dynamics on twitter during COVID-19 pandemic using network analysis
-*Supervised by
-*Funded by 
-
-======
-* 2020 Fall - 2021 Spring: Research Assistant
-  * Pennsylvania State University
-  * Supervisors: Dr. Sarah Rajtmajer and Dr. Anna Squicciarini
-
-* 2019: Data Scientist
-  * Apteo
+* Detecting self-disclosure dynamics on twitter during COVID-19 pandemic using network analysis
+  * Supervised: Dr. Sarah Rajtmajer and Dr. Anna Squicciarini
+  * Funded by
 
 * 2017 Fall - 2018 Winter: Research Assistant
   * Fordham University
