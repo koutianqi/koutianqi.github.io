@@ -11,7 +11,7 @@ title                    : "Tianqi Kou"
 title_separator          : "-"
 name                     : &name "Tianqi Kou"
 description              : &description "PhD Student at IST@Pennsylvania State University."
-url                      : https://koutianqi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://koutianqi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "koutianqi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/koutianqi"
+  github           : "koutianqi"
   google_plus      :
   keybase          :
   instagram        :
