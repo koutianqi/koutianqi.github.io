@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D student at the College of Information Science and Technology at The Pennsylvania State University. I am fortunate to be co-advised by Dr. Fred Fonseca [link](https://ist.psu.edu/directory/fuf1) and Dr. Daniel Susser [link](http://www.danielsusser.info).
-
-<span style="color:blue">some *blue* text</span>
+I am a second year Ph.D student at the College of Information Science and Technology at The Pennsylvania State University. I am fortunate to be co-advised by [<span style="color:blue">Dr. Fred Fonseca</span>](https://ist.psu.edu/directory/fuf1) and [<span style="color:blue">Dr. Daniel Susser</span>](http://www.danielsusser.info).
 
 area of research
 -----
