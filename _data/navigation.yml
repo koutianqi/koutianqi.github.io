@@ -5,9 +5,11 @@ main:
     #url: /research/
   #- title: "News"#
     #url: /news/#
-  
-  - title: "Research"
-    url: /publications/ 
+  - title: "Research Experience"
+    url: /talks/   
+    
+  #- title: "Publications"
+    #url: /publications/ 
 
   #- title: "Teaching"#
     #url: /teaching/#
