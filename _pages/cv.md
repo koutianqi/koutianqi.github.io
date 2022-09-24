@@ -20,7 +20,7 @@ Teaching
 ======
  * IST230 Language, Logic, and Discrete Mathematics, Pennsylvania State University
 
- * IST310 Machine Learning, Pennsylvania State University
+ * DS310 Machine Learning, Pennsylvania State University
 
  * SDGB7844 Statistical Methods and Computation, Fordham University
 
