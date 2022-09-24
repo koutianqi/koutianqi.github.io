@@ -12,9 +12,7 @@ I am a third year Ph.D student at the College of Information Science and Technol
 
 Area of research
 -----
-My research is [<span style="color:blue">epistemology</span>](https://plato.stanford.edu/entries/epistemology/) of machine learning.
-
-I am interested in answering relevant epistemological questions to develop **methods of justification** for machine learning research amid [<span style="color:blue">replication crisis in applied machine learning research</span>](https://reproducible.cs.princeton.edu).
+My research is [<span style="color:blue">epistemology</span>](https://plato.stanford.edu/entries/epistemology/) of machine learning. I am interested in answering relevant epistemological questions to develop **methods of justification** for machine learning research besides benchmarking.
 
 Research experiences
 -----
