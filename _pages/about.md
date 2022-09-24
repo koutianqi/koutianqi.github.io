@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D student at the College of Information Science and Technology at The Pennsylvania State University. I am fortunate to be co-advised by [<span style="color:blue">Dr. Fred Fonseca</span>](https://ist.psu.edu/directory/fuf1) and [<span style="color:blue">Dr. Daniel Susser</span>](http://www.danielsusser.info).
+I am a third year Ph.D student at the College of Information Science and Technology at The Pennsylvania State University. I am fortunate to be co-advised by [<span style="color:blue">Dr. Fred Fonseca</span>](https://ist.psu.edu/directory/fuf1) and [<span style="color:blue">Dr. Daniel Susser</span>](http://www.danielsusser.info).
 
 Area of research
 -----
@@ -39,7 +39,7 @@ Research experiences
 
 News
 -----
-**2022/10/12** poster on Reproducibility in Machine Learning Research admitted to ICDS 2022 Symposium
+**2022/10/12** poster on Reproducibility in Machine Learning Research admitted to ICDS 2022 Symposium\
 **2022/06** marched in pride parade at State College with queer people\
 **2022/05** nominated internally by the College of IST for 2022 Microsoft Ph.D Fellowship along three fellow researchers!\
 **2021/11**  passed qualifying exam\
