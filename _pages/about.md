@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D student at the College of Information Science and Technology at The Pennsylvania State University. I am fortunate to be co-advised by [<span style="color:blue">Dr. Fred Fonseca</span>](https://ist.psu.edu/directory/fuf1) and [<span style="color:blue">Dr. Daniel Susser</span>](http://www.danielsusser.info). I am currently a student affiliate of [<span style="color:blue">CSRAI</span>](https://ai.psu.edu/)(Center for Socially Responsible Artificial Intelligence)
+I am a third year Ph.D student at the College of Information Science and Technology at The Pennsylvania State University. I am fortunate to be co-advised by [<span style="color:blue">Dr. Fred Fonseca</span>](https://ist.psu.edu/directory/fuf1) and [<span style="color:blue">Dr. Daniel Susser</span>](http://www.danielsusser.info). I am currently a student affiliate of [<span style="color:blue">CSRAI</span>](https://ai.psu.edu/)(Center for Socially Responsible Artificial Intelligence).
 
 Area of research
 -----
