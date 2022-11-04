@@ -12,11 +12,11 @@ I am a third year Ph.D student at the College of Information Science and Technol
 
 Area of research
 -----
-My research is [<span style="color:blue">epistemology</span>](https://plato.stanford.edu/entries/epistemology/) of machine learning. I am interested in answering relevant epistemological questions to develop **methods of justification** for machine learning research besides benchmarking.
+I do research on Philosophy of Science and Philosophy of Machine Learning. In my past research I have applied mixed methods, methods I apply in my current research and dissertation project is philosophical analyses and ethnogrphy. My dissertation project aims to develop new methods of justification for ML research.
 
 Research experiences
 -----
-* (**ongoing**) Dissertation : epistemology of machine learning
+* (**ongoing**) Dissertation : Ground for Trust in Machine Learning: Method for Justification Beyond Direct Reproducibility
   * Advisors: [<span style="color:blue">Dr. Fred Fonseca</span>](https://ist.psu.edu/directory/fuf1) and [<span style="color:blue">Dr. Daniel Susser</span>](http://www.danielsusser.info)
 
 * (**ongoing**) Exploring K-12 school librarians' role in strengthening children's privacy literacy through interviews and curricula analysis
