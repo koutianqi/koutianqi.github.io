@@ -12,7 +12,7 @@ I am a third year Ph.D student at the College of Information Science and Technol
 
 Area of research
 -----
-I do research on Philosophy of Science and Philosophy of Machine Learning. In my past research，I applied experimental method such as network analysis and theoretical method such as peer prediction. Currently, I apply mixed methods in my dissertation project - philosophical analyses and ethnography. My dissertation project aims to develop new methods of justification for ML research through conceptual analyses and fieldwork.
+I do research on Philosophy of Science and Philosophy of Machine Learning. In my past research，I applied experimental method such as network analysis and theoretical method such as peer prediction. Currently, I apply mixed methods in my dissertation project - philosophical analyses and ethnography. My dissertation project aims to develop new methods of justification for ML research through conceptual analyses and fieldwork. In doing this, I hope to cultivate more robust scientific reasoning based on ML.
 
 Research experiences
 -----
