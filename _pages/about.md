@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D student at the College of Information Science and Technology at The Pennsylvania State University. I am fortunate to be co-advised by [<span style="color:blue">Dr. Fred Fonseca</span>](https://ist.psu.edu/directory/fuf1) and [<span style="color:blue">Dr. Daniel Susser</span>](http://www.danielsusser.info). I am currently a student affiliate of [<span style="color:blue">CSRAI</span>](https://ai.psu.edu/)(Center for Socially Responsible Artificial Intelligence).
+I am a second year Ph.D student at the College of Information Science and Technology at The Pennsylvania State University. I am fortunate to be co-advised by [<span style="color:blue">Dr. Fred Fonseca</span>](https://ist.psu.edu/directory/fuf1) and [<span style="color:blue">Dr. Daniel Susser</span>](http://www.danielsusser.info). I am currently a student affiliate of [<span style="color:blue">CSRAI</span>](https://ai.psu.edu/)(Center for Socially Responsible Artificial Intelligence).
 
 Area of research
 -----
-I do research on Philosophy of Science and Philosophy of Machine Learning. In my past research，I applied experimental method such as network analysis and theoretical method such as peer prediction. Currently, I apply mixed methods in my dissertation project - philosophical analyses and ethnography. My dissertation project aims to develop new methods of justification for ML research through conceptual analyses and fieldwork. In doing this, I hope to cultivate more robust scientific reasoning based on ML.
+Science and Technology Studies, Philosophy of Machine Learning
 
 Research experiences
 -----
-* (**ongoing**) Dissertation : Ground for Trust in Machine Learning: Method for Justification Beyond Direct Reproducibility
+* (**ongoing**) Dissertation : Reconceptualizing Replicability in Machine Learning
   * Advisors: [<span style="color:blue">Dr. Fred Fonseca</span>](https://ist.psu.edu/directory/fuf1) and [<span style="color:blue">Dr. Daniel Susser</span>](http://www.danielsusser.info)
 
 * (**ongoing**) Exploring K-12 school librarians' role in strengthening children's privacy literacy through interviews and curricula analysis
