@@ -12,7 +12,7 @@ I am a second year Ph.D student at the College of Information Science and Techno
 
 Area of research
 -----
-Science and Technology Studies, Philosophy of Machine Learning
+Philosophy of Machine Learning, STS (Science and Technology Studies), Race and Technology
 
 Research experiences
 -----
