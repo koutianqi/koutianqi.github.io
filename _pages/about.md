@@ -37,6 +37,8 @@ Research experiences
 
 News
 -----
+**2023/05/08** paper abstract accepted by PhilML2023: Philosophy of Science Meets Machine Learning Conference 2023\
+**2023/04/01** served as a panelist at the Queer and Trans Graduate Students in STEM Panel
 **2022/10/12** poster on Reproducibility in Machine Learning Research admitted to ICDS 2022 Symposium\
 **2022/06** marched in pride parade at State College with queer people\
 **2022/05** nominated internally by the College of IST for 2022 Microsoft Ph.D Fellowship along three fellow researchers!\
