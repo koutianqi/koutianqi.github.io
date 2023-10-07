@@ -22,7 +22,7 @@ Research experiences
 -----
 * Dissertation : Reconceptualizing Machine Learning Replicability
   * Advisors: [<span style="color:blue">Dr. Fred Fonseca</span>](https://ist.psu.edu/directory/fuf1) and [<span style="color:blue">Dr. Daniel Susser</span>](http://www.danielsusser.info)
-  * Commitee members: [<span style="color:blue">Dr. Cindy Lin</span>](https://lincindy.com), [<span style="color:blue">Dr. Andrea Miller </span>](https://andreamillerphd.com/about), [<span style="color:blue">Dr. Leif Hancox-Li</span>](https://boltzmann-brain.github.io)
+  * Commitee members: [<span style="color:blue">Dr. Cindy Lin</span>](https://lincindy.com), [<span style="color:blue">Dr. Andrea Miller</span>](https://andreamillerphd.com/about), [<span style="color:blue">Dr. Leif Hancox-Li</span>](https://boltzmann-brain.github.io)
 
 * Understanding K-12 school librarians' role in strengthening children's privacy literacy through interviews and curricula analysis
   * Advisor: [<span style="color:blue">Dr. Priya Kumar</span>](https://priyakumar.org)
