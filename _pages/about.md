@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D student at the College of Information Science and Technology at The Pennsylvania State University. I am fortunate to be co-advised by [<span style="color:blue">Dr. Fred Fonseca</span>](https://ist.psu.edu/directory/fuf1) and [<span style="color:blue">Dr. Daniel Susser</span>](http://www.danielsusser.info). I am currently a student affiliate of [<span style="color:blue">CSRAI</span>](https://ai.psu.edu/) (Center for Socially Responsible Artificial Intelligence).
+I am a second year Ph.D student at the College of Information Science and Technology (iSchool) at The Pennsylvania State University. My research lies at the intersection of feminist philosophy of science and machine learning. Previous to my academic career as a doctoral student, I was trained in machine learning and statistics, and worked in the industry as an machine learning engineer. Combining my knowledge in machine learning and my philosophy training at Penn State, I developed interests in mapping feminist epistemic values to concrete machine learning research practices. I am currently a student affiliate of [<span style="color:blue">CSRAI</span>](https://ai.psu.edu/) (Center for Socially Responsible Artificial Intelligence). I am fortunate to work closely with my mentors: [<span style="color:blue">Dr. Fred Fonseca</span>](https://ist.psu.edu/directory/fuf1), [<span style="color:blue">Dr. Daniel Susser</span>](http://www.danielsusser.info), [<span style="color:blue">Dr. Cindy Lin</span>](https://lincindy.com). 
 
 Area of research
 -----
