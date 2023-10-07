@@ -38,6 +38,7 @@ Research experiences
 
 News
 -----
+**2023/10/02** awarded International Travel Grant from the Graduate School at Penn State\
 **2023/10/02** poster on contradictions between ML replicability and feminist epistemic values admitted to ICDS 2022 Symposium\
 **2023/05/08** paper abstract accepted by PhilML2023: Philosophy of Science Meets Machine Learning Conference 2023\
 **2023/04/01** served as a panelist at the Queer and Trans Graduate Students in STEM Panel\
@@ -52,6 +53,7 @@ Contact
 email: tfk5237@psu.edu\
 *In the case of me going AWOL, please reach out to my excellent and supportive friends SLASH colluders:*\
 [<span style="color:green">Heidi Biggs</span>](https://www.heidibiggsdesign.com) \
+[<span style="color:green">Petrus Van Staden</span>](https://www.petrusvanstaden.com)\
 [<span style="color:purple">Nick Stares</span>](https://nickstares.com) \
 [<span style="color:red">Boya Wang</span>](https://wangboya.org)
 
