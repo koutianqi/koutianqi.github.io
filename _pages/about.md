@@ -25,7 +25,7 @@ Research experiences
   * [<span style="color:blue">Funded by the College of IST</span>](https://ist.psu.edu/research/projects/privacy-literacy)
 
 * Developed a variant of Surrogate Scoring Rule using Hierarchical Mutual Information to score participants judgments of study reproducibility without ground truth
-  * Supervisors: [<span style="color:blue">Dr. Sarah Rajtmajer</span>](https://www.sarahrajtmajer.com) and [<span style="color:blue">Dr. David Pennock</span>(Rutgers University)](http://dpennock.com)
+  * Supervisors: [<span style="color:blue">Dr. Sarah Rajtmajer</span>](https://www.sarahrajtmajer.com) and [<span style="color:blue">Dr. David Pennock</span>](http://dpennock.com)
   * [<span style="color:blue">Funded by DARPA</span>](https://www.ist.psu.edu/research/projects/synthetic-prediction-markets)
 
 * Detecting self-disclosure dynamics on twitter during COVID-19 pandemic using network analysis
