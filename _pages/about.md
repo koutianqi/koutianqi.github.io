@@ -12,14 +12,15 @@ I am a second year Ph.D student at the College of Information Science and Techno
 
 Area of research
 -----
-Philosophy of Machine Learning, STS (Science and Technology Studies), Race and Technology
+Feminist Philosophy of Science, Machine Learning Replicability
 
 Research experiences
 -----
-* (**ongoing**) Dissertation : Reconceptualizing Replicability in Machine Learning
+* Dissertation : Reconceptualizing Replicability in Machine Learning
   * Advisors: [<span style="color:blue">Dr. Fred Fonseca</span>](https://ist.psu.edu/directory/fuf1) and [<span style="color:blue">Dr. Daniel Susser</span>](http://www.danielsusser.info)
+  * Commitee members: [<span style="color:blue">Dr. Cindy Lin</span>](https://lincindy.com), [<span style="color:blue">Dr. Andrea Miller </span>](https://andreamillerphd.com/about)
 
-* (**ongoing**) Exploring K-12 school librarians' role in strengthening children's privacy literacy through interviews and curricula analysis
+* Understanding K-12 school librarians' role in strengthening children's privacy literacy through interviews and curricula analysis
   * Advisor: [<span style="color:blue">Dr. Priya Kumar</span>](https://priyakumar.org)
   * [<span style="color:blue">Funded by the College of IST</span>](https://ist.psu.edu/research/projects/privacy-literacy)
 
@@ -37,9 +38,10 @@ Research experiences
 
 News
 -----
+**2023/10/02** poster on contradictions between ML replicability and feminist epistemic values admitted to ICDS 2022 Symposium\
 **2023/05/08** paper abstract accepted by PhilML2023: Philosophy of Science Meets Machine Learning Conference 2023\
 **2023/04/01** served as a panelist at the Queer and Trans Graduate Students in STEM Panel\
-**2022/10/12** poster on Reproducibility in Machine Learning Research admitted to ICDS 2022 Symposium\
+**2022/10/12** poster on Replicability in Machine Learning Research admitted to ICDS 2022 Symposium\
 **2022/06** marched in pride parade at State College with queer people\
 **2022/05** nominated internally by the College of IST for 2022 Microsoft Ph.D Fellowship along three fellow researchers!\
 **2021/11**  passed qualifying exam\
