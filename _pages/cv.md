@@ -19,10 +19,7 @@ Education
 Teaching
 ======
  * DS200 Intro to Data Science, Pennsylvania State University
-
  * IST230 Language, Logic, and Discrete Mathematics, Pennsylvania State University
-
  * DS310 Machine Learning, Pennsylvania State University
-
  * SDGB7844 Statistical Methods and Computation, Fordham University
 
