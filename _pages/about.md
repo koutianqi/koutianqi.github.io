@@ -12,7 +12,7 @@ I am a second year Ph.D student at the College of Information Science and Techno
 
 I am fortunate to work closely with my mentors: [<span style="color:blue">Dr. Fred Fonseca</span>](https://ist.psu.edu/directory/fuf1), [<span style="color:blue">Dr. Daniel Susser</span>](http://www.danielsusser.info), [<span style="color:blue">Dr. Cindy Lin</span>](https://lincindy.com), [<span style="color:blue">Dr. Leif Hancox-Li</span>](https://boltzmann-brain.github.io)
 
-In my free time, I like shooting, editing, and watching films. I also enjoying being a cat and dog parent to my cats Gin and Tonic, and my corgi puppy Dionysus. If you want to meet to discuss my research, reach out to me on Twitter or send me an email.
+In my free time, editing and watching films. I also enjoying being a cat and dog parent to my cats Gin and Tonic, and my corgi puppy Dionysus. If you want to meet to discuss my research, reach out to me on Twitter or send me an email.
 
 Area of research
 -----
