@@ -65,7 +65,7 @@ Contact
 email: tfk5237@psu.edu\
 *In the case of me going AWOL, please reach out to my excellent and supportive friends SLASH colluders:*\
 [<span style="color:green">Heidi Biggs</span>](https://www.heidibiggsdesign.com) \
-[<span style="color:green">Petrus Van Staden</span>](https://www.petrusvanstaden.com)\
+[<span style="color:blue">Petrus Van Staden</span>](https://www.petrusvanstaden.com)\
 [<span style="color:purple">Nick Stares</span>](https://nickstares.com) \
 [<span style="color:red">Boya Wang</span>](https://wangboya.org)
 
