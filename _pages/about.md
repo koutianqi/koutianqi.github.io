@@ -54,9 +54,9 @@ News
 
 **2022/06** marched in pride parade at State College with queer people\
 
-**2022/05** nominated internally by the College of IST for 2022 Microsoft Ph.D Fellowship along three fellow researchers!\
+**2022/05** nominated internally by the College of IST for 2022 Microsoft Ph.D Fellowship along three fellow researchers!
 
-**2021/11**  passed qualifying exam\
+**2021/11**  passed qualifying exam
 
 **2020/08** joined Penn State IST!
 
