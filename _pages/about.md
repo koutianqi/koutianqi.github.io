@@ -42,7 +42,7 @@ Research experiences
 
 News
 -----
-**2023/10/02** awarded International Travel Grant from the Graduate School at Penn State
+**2023/10/12** awarded International Travel Grant from the Graduate School at Penn State
 
 **2023/10/02** poster on contradictions between ML replicability and feminist epistemic values admitted to ICDS 2022 Symposium
 
