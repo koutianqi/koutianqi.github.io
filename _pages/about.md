@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D student at the College of Information Sciences and Technology (iSchool) at The Pennsylvania State University. My research lies at the intersection of feminist philosophy of science and machine learning. Previous to my academic career as a doctoral student, I was trained in machine learning and statistics, and worked in the industry as a machine learning engineer. I am a lab member at Critical Technocultures led by Dr. Cindy Lin and I am a student affiliate of [<span style="color:blue">CSRAI</span>](https://csrai.psu.edu) (Center for Socially Responsible Artificial Intelligence).I am fortunate to work closely with my mentors: [<span style="color:blue">Dr. Fred Fonseca</span>](https://ist.psu.edu/directory/fuf1), [<span style="color:blue">Dr. Daniel Susser</span>](http://www.danielsusser.info), [<span style="color:blue">Dr. Cindy Lin</span>](https://lincindy.com), [<span style="color:blue">Dr. Leif Hancox-Li</span>](https://boltzmann-brain.github.io). Combining my knowledge in machine learning and my philosophy training at Penn State, I developed interests in mapping feminist epistemic values to concrete machine learning research practices. 
+I am a third year Ph.D student at the College of Information Sciences and Technology (iSchool) at The Pennsylvania State University. My research lies at the intersection of feminist STS (science and technology studies) and AI ethics. Previous to my academic career as a doctoral student, I was trained in machine learning and statistics, and worked in the industry as a machine learning engineer. I am a lab member at Critical Technocultures led by Dr. Cindy Lin and I am a student affiliate of [<span style="color:blue">CSRAI</span>](https://csrai.psu.edu) (Center for Socially Responsible Artificial Intelligence). Currently, I am also a Liberatory Tech Scholar at Dr. Chritopher Dancy's THiCC Lab, working with Logic(s) Mag as a Tech Column Explainer and Fact Checker. I am fortunate to work closely with my mentors: [<span style="color:blue">Dr. Fred Fonseca</span>](https://ist.psu.edu/directory/fuf1), [<span style="color:blue">Dr. Daniel Susser</span>](http://www.danielsusser.info), [<span style="color:blue">Dr. Cindy Lin</span>](https://lincindy.com), and [<span style="color:blue">Dr. Leif Hancox-Li</span>](https://boltzmann-brain.github.io). Combining my knowledge in machine learning and my philosophy training at Penn State, I developed interests in aligning machine learning research practices and feminist epistemological values. 
 
 In my free time, I like editing and watching films. I also enjoying being a cat and dog parent to my cats Gin and Tonic, and my corgi puppy Dionysus. If you want to meet to discuss my research, reach out to me on Twitter or send me an email.
 
@@ -40,6 +40,8 @@ Research experiences
 
 News
 -----
+**2024/1/01** selected as a Liberatory Tech Scholar to work as a Tech Explainer and Fact Checker at Logic(s) Magazine
+
 **2023/10/12** awarded International Travel Grant from the Graduate School at Penn State
 
 **2023/10/02** poster on contradictions between ML replicability and feminist epistemic values admitted to ICDS 2022 Symposium
