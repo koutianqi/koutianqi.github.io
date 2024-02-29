@@ -42,8 +42,6 @@ News
 -----
 **2024/1/01** selected as a Liberatory Tech Scholar to work as a Tech Explainer and Fact Checker at Logic(s) Magazine
 
-**2023/10/12** awarded International Travel Grant from the Graduate School at Penn State
-
 **2023/10/02** poster on contradictions between ML replicability and feminist epistemic values admitted to ICDS 2022 Symposium
 
 **2023/05/08** paper abstract accepted by PhilML2023: Philosophy of Science Meets Machine Learning Conference 2023
