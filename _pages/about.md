@@ -40,6 +40,8 @@ Research experiences
 
 News
 -----
+**2024/3/29** My solo-authored paper accepted to AI Ethics Conference ACM FAccT 2024!
+
 **2024/1/01** selected as a Liberatory Tech Scholar to work as a Tech Explainer and Fact Checker at Logic(s) Magazine
 
 **2023/10/02** poster on contradictions between ML replicability and feminist epistemic values admitted to ICDS 2022 Symposium
