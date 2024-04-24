@@ -40,9 +40,11 @@ Research experiences
 
 News
 -----
-**2024/3/29** My solo-authored paper accepted to AI Ethics Conference ACM FAccT 2024!
+**2024/3/29** solo-authored paper accepted to AI Ethics Conference ACM FAccT'24!
 
-**2024/1/01** selected as a Liberatory Tech Scholar to work as a Tech Explainer and Fact Checker at Logic(s) Magazine
+**2024/3/12** received Dean's Travel Award from Penn State College of IST
+
+**2024/1/05** selected as a Liberatory Tech Scholar to work as a Tech Explainer and Fact Checker at Logic(s) Magazine
 
 **2023/10/02** poster on contradictions between ML replicability and feminist epistemic values admitted to ICDS 2022 Symposium
 
@@ -52,11 +54,11 @@ News
 
 **2022/10/12** poster on Replicability in Machine Learning Research admitted to ICDS 2022 Symposium
 
-**2022/06** marched in pride parade at State College with queer people
+**2022/06** marched in pride parade at State College :D
 
 **2022/05** nominated internally by the College of IST for 2022 Microsoft Ph.D Fellowship along three fellow researchers!
 
-**2021/11**  passed qualifying exam
+**2021/11**  passed Qualifying Exam
 
 **2020/08** joined Penn State IST!
 
