@@ -17,8 +17,11 @@ Reach out to me on Twitter or send me an email if you want to discuss academia l
 Affiliations
 -----
 [<span style="color:red">Critical Technocultures Lab</span>](https://www.crit-technocultures.com) - lab member
+
 [<span style="color:red">Center for Socially Responsible Artificial Intelligence</span>](https://csrai.psu.edu) - student affiliate
+
 [<span style="color:red">THiCC Lab</span>](https://sites.psu.edu/thicc/) - Liberatory Tech Scholar
+
 [<span style="color:red">LOGIC(S)</span>](https://logicmag.io)) - Fact Checker and Tech Column Explainer
 
 
