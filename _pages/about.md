@@ -30,8 +30,8 @@ Publication
 
 News
 -----
-**2024/3/29** solo-authored paper accepted to AI Ethics Conference ACM FAccT'24, first submission and publication!
-**2024/3/12** received Dean's Travel Award from Penn State College of IST
+**2024/3/29** solo-authored paper accepted to AI Ethics Conference ACM FAccT'24, first submission and publication!/
+**2024/3/12** received Dean's Travel Award from Penn State College of IST/
 **2024/1/05** selected as a Liberatory Tech Scholar to work as a Tech Explainer and Fact Checker at Logic(s) Magazine
 **2023/10/02** poster on contradictions between ML replicability and feminist epistemic values admitted to ICDS 2022 Symposium
 **2023/05/08** paper abstract accepted by PhilML2023: Philosophy of Science Meets Machine Learning Conference 2023
