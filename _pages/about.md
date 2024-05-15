@@ -14,10 +14,10 @@ Reach out to me on Twitter (@koutianqi1) or send me an email (tfk5237@psu.edu) t
 
 Affiliations
 -----
-[<span style="color:red">Critical Technocultures Lab</span>](https://www.crit-technocultures.com) - lab member\
-[<span style="color:red">Center for Socially Responsible Artificial Intelligence</span>](https://csrai.psu.edu) - student affiliate\
-[<span style="color:red">THiCC Lab</span>](https://sites.psu.edu/thicc/) - Liberatory Tech Scholar\
-[<span style="color:red">LOGIC(S)</span>](https://logicmag.io)) - Fact Checker and Tech Column Explainer
+_[<span style="color:red">Critical Technocultures Lab</span>](https://www.crit-technocultures.com) - lab member_\
+_[<span style="color:red">Center for Socially Responsible Artificial Intelligence</span>](https://csrai.psu.edu) - student affiliate_\
+_[<span style="color:red">THiCC Lab</span>](https://sites.psu.edu/thicc/) - Liberatory Tech Scholar_\
+_[<span style="color:red">LOGIC(S)</span>](https://logicmag.io)) - Fact Checker and Tech Column Explainer_
 
 Publication
 -----
