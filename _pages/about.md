@@ -15,7 +15,7 @@ _Affiliations_
 _[<span style="color:green">Critical Technocultures Lab</span>](https://www.crit-technocultures.com) - lab member_\
 _[<span style="color:blue">Center for Socially Responsible Artificial Intelligence</span>](https://csrai.psu.edu) - student affiliate_\
 _[<span style="color:purple">THiCC Lab</span>](https://sites.psu.edu/thicc/) - Liberatory Tech Scholar_\
-_[<span style="color:grey">LOGIC(S)</span>](https://logicmag.io) - Fact Checker and Tech Column Explainer_
+_[<span style="color:grey">LOGIC(S)</span>](https://logicmag.io) - Fact Checker_
 
 _Publication_
 -----
@@ -36,10 +36,9 @@ _<span style="color:red">News</span>_
 **2021/11**  _passed Qualifying Exam_\
 **2020/08** _joined Penn State IST!_
 
-:email: Contact
+Contact
 -----
-email: tfk5237@psu.edu\
-twitter: @koutianqi1\
+email: tfk5237@psu.edu, twitter: @koutianqi1\
 *In the case of me going AWOL, please reach out to my excellent and supportive friends/colluders:*\
 [<span style="color:green">Heidi Biggs</span>](https://www.heidibiggsdesign.com) \
 [<span style="color:blue">Petrus Van Staden</span>](https://www.petrusvanstaden.com)\
