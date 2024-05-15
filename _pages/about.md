@@ -21,7 +21,7 @@ Affiliations
 
 Publication
 -----
-(Forthcoming) Tianqi Kou. 2024. From Model Performance to Claim: How a Change of Focus in Machine Learning Replicability Can Help Bridge the Responsibility Gap. In The 2024 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’24), June 03–06, 2024, Rio de Janeiro, Brazil. ACM, New York, NY, USA, 12 pages. https://doi.org/10.1145/3630106.3658951 [[<span style="color:red">preprint</span>](https://philpapers.org/rec/KOUFMP)]
+(_Forthcoming in FAccT'24_) Tianqi Kou. 2024. From Model Performance to Claim: How a Change of Focus in Machine Learning Replicability Can Help Bridge the Responsibility Gap. In The 2024 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’24), June 03–06, 2024, Rio de Janeiro, Brazil. ACM, New York, NY, USA, 12 pages. https://doi.org/10.1145/3630106.3658951 [[<span style="color:red">preprint</span>](https://philpapers.org/rec/KOUFMP)]
 
 
 News
