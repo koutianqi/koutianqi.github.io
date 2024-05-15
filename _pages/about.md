@@ -38,7 +38,7 @@ _<span style="color:red">News</span>_
 
 Contact
 -----
-email: tfk5237@psu.edu, twitter: [<span style="color:green">@koutianqi1</span>]([https://twitter.com/koutianqi1])\
+tfk5237@psu.edu, [<span style="color:green">@koutianqi1</span>](https://twitter.com/koutianqi1)\
 *or find me through my friends:*\
 [<span style="color:green">Heidi Biggs</span>](https://www.heidibiggsdesign.com)\
 [<span style="color:purple">Cong Ma</span>](https://mc-pony.com) \
