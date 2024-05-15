@@ -10,8 +10,6 @@ redirect_from:
 
 Ph.D student at the College of Information Sciences and Technology at Pennsylvania State University. My research lies at the intersection of feminist philosophy of science, science and technology studies, and AI ethics. Previous to my academic career as a doctoral student, I was trained in Machine Learning and Statistics, and worked in the industry as an ML engineer.
 
-:email: DM me on Twitter (@koutianqi1) or email me at tfk5237@psu.edu to discuss academia life, PhD application, or research!
-
 _:office: Affiliations_
 -----
 _[<span style="color:green">Critical Technocultures Lab</span>](https://www.crit-technocultures.com) - lab member_\
@@ -38,10 +36,11 @@ _:loudspeaker: <span style="color:red">News</span>_
 **2021/11**  _passed Qualifying Exam_\
 **2020/08** _joined Penn State IST!_
 
-Contact
+:email: Contact
 -----
 email: tfk5237@psu.edu\
-*In the case of me going AWOL, please reach out to my excellent and supportive friends SLASH colluders:*\
+twitter: @koutianqi1\
+*In the case of me going AWOL, please reach out to my excellent and supportive friends/colluders:*\
 [<span style="color:green">Heidi Biggs</span>](https://www.heidibiggsdesign.com) \
 [<span style="color:blue">Petrus Van Staden</span>](https://www.petrusvanstaden.com)\
 [<span style="color:purple">Cong Ma</span>](https://mc-pony.com) \
