@@ -12,7 +12,7 @@ Ph.D student at the College of Information Sciences and Technology at Pennsylvan
 
 Reach out to me on Twitter (@koutianqi1) or send me an email (tfk5237@psu.edu) to discuss academia life, PhD application, or research!
 
-_Affiliations_
+_Affiliations<span style="color🏘️"></span>_
 -----
 _[<span style="color:green">Critical Technocultures Lab</span>](https://www.crit-technocultures.com) - lab member_\
 _[<span style="color:blue">Center for Socially Responsible Artificial Intelligence</span>](https://csrai.psu.edu) - student affiliate_\
