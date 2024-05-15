@@ -26,17 +26,17 @@ Publication
 
 News
 -----
-**2024/3/29** solo-authored paper accepted to AI Ethics Conference ACM FAccT'24, first submission and publication!\
-**2024/3/12** received Dean's Travel Award from Penn State College of IST\
-**2024/1/05** selected as a Liberatory Tech Scholar to work as a Tech Explainer and Fact Checker at Logic(s) Magazine\
-**2023/10/02** poster on contradictions between ML replicability and feminist epistemic values admitted to ICDS 2022 Symposium\
-**2023/05/08** paper abstract accepted by PhilML2023: Philosophy of Science Meets Machine Learning Conference 2023\
-**2023/04/01** served as a panelist at the Queer and Trans Graduate Students in STEM Panel\
-**2022/10/12** poster on Replicability in Machine Learning Research admitted to ICDS 2022 Symposium\
-**2022/06** marched in pride parade at State College :D\
-**2022/05** nominated internally by the College of IST for 2022 Microsoft Ph.D Fellowship along three fellow researchers!\
-**2021/11**  passed Qualifying Exam\
-**2020/08** joined Penn State IST!\
+**2024/3/29** _solo-authored paper accepted to AI Ethics Conference ACM FAccT'24, first submission and publication!_\
+**2024/3/12** _received Dean's Travel Award from Penn State College of IST_\
+**2024/1/05** _selected as a Liberatory Tech Scholar to work as a Tech Explainer and Fact Checker at Logic(s) Magazine_\
+**2023/10/02** _poster on contradictions between ML replicability and feminist epistemic values admitted to ICDS 2022 Symposium_\
+**2023/05/08** _paper abstract accepted by PhilML2023: Philosophy of Science Meets Machine Learning Conference 2023_\
+**2023/04/01** _served as a panelist at the Queer and Trans Graduate Students in STEM Panel_\
+**2022/10/12** _poster on Replicability in Machine Learning Research admitted to ICDS 2022 Symposium_\
+**2022/06** _marched in pride parade at State College :D_\
+**2022/05** nominated internally by the College of IST for 2022 Microsoft Ph.D Fellowship\
+**2021/11**  _passed Qualifying Exam_\
+**2020/08** _joined Penn State IST!_
 
 Contact
 -----
