@@ -38,10 +38,9 @@ _<span style="color:red">News</span>_
 
 Contact
 -----
-email: tfk5237@psu.edu, twitter: @koutianqi1\
-*In the case of me going AWOL, please reach out to my excellent and supportive friends/colluders:*\
-[<span style="color:green">Heidi Biggs</span>](https://www.heidibiggsdesign.com) \
-[<span style="color:blue">Petrus Van Staden</span>](https://www.petrusvanstaden.com)\
+email: tfk5237@psu.edu, twitter: [<span style="color:green">@koutianqi1</span>]([https://twitter.com/koutianqi1])\
+*or find me through my friends:*\
+[<span style="color:green">Heidi Biggs</span>](https://www.heidibiggsdesign.com)\
 [<span style="color:purple">Cong Ma</span>](https://mc-pony.com) \
 [<span style="color:red">Boya Wang</span>](https://wangboya.org)
 
