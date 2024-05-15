@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-:rainbow: Ph.D student at the College of Information Sciences and Technology at Pennsylvania State University. My research lies at the intersection of feminist philosophy of science, science and technology studies, and AI ethics. Previous to my academic career as a doctoral student, I was trained in Machine Learning and Statistics, and worked in the industry as an ML engineer.
+Ph.D student at the College of Information Sciences and Technology at Pennsylvania State University. My research lies at the intersection of feminist philosophy of science, science and technology studies, and AI ethics. Previous to my academic career as a doctoral student, I was trained in Machine Learning and Statistics, and worked in the industry as an ML engineer.
 
 Reach out to me on Twitter (@koutianqi1) or send me an email (tfk5237@psu.edu) to discuss academia life, PhD application, or research!
 
@@ -26,14 +26,14 @@ _:speech_balloon: Publication_
 
 _:loudspeaker: <span style="color:red">News</span>_
 -----
-**2024/3/29** _solo-authored paper accepted to AI Ethics Conference ACM FAccT'24, first submission and publication!_\
+**2024/3/29** _solo-authored paper accepted to ACM FAccT'24 :brazil:, first submission and publication!_\
 **2024/3/12** _received Dean's Travel Award from Penn State College of IST_\
 **2024/1/05** _selected as a Liberatory Tech Scholar to work as a Tech Explainer and Fact Checker at Logic(s) Magazine_\
 **2023/10/02** _poster on contradictions between ML replicability and feminist epistemic values admitted to ICDS 2022 Symposium_\
 **2023/05/08** _paper abstract accepted by PhilML2023: Philosophy of Science Meets Machine Learning Conference 2023_\
 **2023/04/01** _served as a panelist at the Queer and Trans Graduate Students in STEM Panel_\
 **2022/10/12** _poster on Replicability in Machine Learning Research admitted to ICDS 2022 Symposium_\
-**2022/06** _marched in pride parade at State College :D_\
+**2022/06** _marched in pride parade :rainbow: at State College :D_\
 **2022/05** nominated internally by the College of IST for 2022 Microsoft Ph.D Fellowship\
 **2021/11**  _passed Qualifying Exam_\
 **2020/08** _joined Penn State IST!_
