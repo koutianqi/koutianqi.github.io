@@ -12,19 +12,19 @@ Ph.D student at the College of Information Sciences and Technology at Pennsylvan
 
 Reach out to me on Twitter (@koutianqi1) or send me an email (tfk5237@psu.edu) to discuss academia life, PhD application, or research!
 
-Affiliations
+_Affiliations_
 -----
 _[<span style="color:red">Critical Technocultures Lab</span>](https://www.crit-technocultures.com) - lab member_\
 _[<span style="color:red">Center for Socially Responsible Artificial Intelligence</span>](https://csrai.psu.edu) - student affiliate_\
 _[<span style="color:red">THiCC Lab</span>](https://sites.psu.edu/thicc/) - Liberatory Tech Scholar_\
 _[<span style="color:red">LOGIC(S)</span>](https://logicmag.io)) - Fact Checker and Tech Column Explainer_
 
-Publication
+_Publication_
 -----
 (_Forthcoming in FAccT'24_) Tianqi Kou. 2024. From Model Performance to Claim: How a Change of Focus in Machine Learning Replicability Can Help Bridge the Responsibility Gap. In The 2024 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’24), June 03–06, 2024, Rio de Janeiro, Brazil. ACM, New York, NY, USA, 12 pages. https://doi.org/10.1145/3630106.3658951 [[<span style="color:red">preprint</span>](https://philpapers.org/rec/KOUFMP)]
 
 
-News
+_<span style="color:red">News</span>_
 -----
 **2024/3/29** _solo-authored paper accepted to AI Ethics Conference ACM FAccT'24, first submission and publication!_\
 **2024/3/12** _received Dean's Travel Award from Penn State College of IST_\
