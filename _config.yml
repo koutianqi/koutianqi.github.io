@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+en# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -10,7 +10,7 @@ locale                   : "State College, PA"
 title                    : "Tianqi Kou"
 title_separator          : "-"
 name                     : &name "Tianqi Kou"
-description              : &description "PhD Student at IST@Pennsylvania State University."
+description              : &description "PhD Student at Penn State IST"
 url                      : "https://koutianqi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "koutianqi.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Tianqi Kou"
   avatar           : "profile.jpg"
-  bio              : "PhD Student at IST @ Pennsylvania State University, Machine Learning Epistemology"
+  bio              : "PhD Student at Penn State IST"
   location         : "State College, PA"
   employer         :
   googlescholar    :
