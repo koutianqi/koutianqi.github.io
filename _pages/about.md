@@ -14,14 +14,14 @@ Reach out to me on Twitter (@koutianqi1) or send me an email (tfk5237@psu.edu) t
 
 _Affiliations_
 -----
-_[<span style="color:red">Critical Technocultures Lab</span>](https://www.crit-technocultures.com) - lab member_\
-_[<span style="color:red">Center for Socially Responsible Artificial Intelligence</span>](https://csrai.psu.edu) - student affiliate_\
-_[<span style="color:red">THiCC Lab</span>](https://sites.psu.edu/thicc/) - Liberatory Tech Scholar_\
-_[<span style="color:red">LOGIC(S)</span>](https://logicmag.io)) - Fact Checker and Tech Column Explainer_
+_[<span style="color:green">Critical Technocultures Lab</span>](https://www.crit-technocultures.com) - lab member_\
+_[<span style="color:blue">Center for Socially Responsible Artificial Intelligence</span>](https://csrai.psu.edu) - student affiliate_\
+_[<span style="color:purple">THiCC Lab</span>](https://sites.psu.edu/thicc/) - Liberatory Tech Scholar_\
+_[<span style="color:grey">LOGIC(S)</span>](https://logicmag.io)) - Fact Checker and Tech Column Explainer_
 
 _Publication_
 -----
-(_Forthcoming in FAccT'24_) Tianqi Kou. 2024. From Model Performance to Claim: How a Change of Focus in Machine Learning Replicability Can Help Bridge the Responsibility Gap. In The 2024 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’24), June 03–06, 2024, Rio de Janeiro, Brazil. ACM, New York, NY, USA, 12 pages. https://doi.org/10.1145/3630106.3658951 [[<span style="color:red">preprint</span>](https://philpapers.org/rec/KOUFMP)]
+• _<span style="color:red">Forthcoming in FAccT'24</span>_ Tianqi Kou. 2024. From Model Performance to Claim: How a Change of Focus in Machine Learning Replicability Can Help Bridge the Responsibility Gap. In The 2024 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’24), June 03–06, 2024, Rio de Janeiro, Brazil. ACM, New York, NY, USA, 12 pages. https://doi.org/10.1145/3630106.3658951 [[<span style="color:red">preprint</span>](https://philpapers.org/rec/KOUFMP)]
 
 
 _<span style="color:red">News</span>_
