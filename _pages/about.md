@@ -19,7 +19,7 @@ _[<span style="color:grey">LOGIC(S)</span>](https://logicmag.io) - Fact Checker 
 
 _:speech_balloon: Publication_
 -----
-• _<span style="color:red">Forthcoming in FAccT'24</span>_ Tianqi Kou. 2024. From Model Performance to Claim: How a Change of Focus in Machine Learning Replicability Can Help Bridge the Responsibility Gap. In The 2024 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’24), June 03–06, 2024, Rio de Janeiro, Brazil. ACM, New York, NY, USA, 12 pages. https://doi.org/10.1145/3630106.3658951 [[<span style="color:red">preprint</span>](https://philpapers.org/rec/KOUFMP)]
+• _<span style="color:red">Forthcoming in FAccT'24</span>_ Tianqi Kou. 2024. From Model Performance to Claim: How a Change of Focus in Machine Learning Replicability Can Help Bridge the Responsibility Gap. In The 2024 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’24). [[<span style="color:red">preprint</span>](https://philpapers.org/rec/KOUFMP)]
 
 
 _:loudspeaker: <span style="color:red">News</span>_
