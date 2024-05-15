@@ -10,7 +10,7 @@ redirect_from:
 
 Ph.D student at the College of Information Sciences and Technology at Pennsylvania State University. My research lies at the intersection of feminist philosophy of science, science and technology studies, and AI ethics. Previous to my academic career as a doctoral student, I was trained in Machine Learning and Statistics, and worked in the industry as an ML engineer.
 
-Reach out to me on Twitter (@koutianqi1) or send me an email (tfk5237@psu.edu) to discuss academia life, PhD application, or research!
+:email: DM me on Twitter (@koutianqi1) or email me at tfk5237@psu.edu to discuss academia life, PhD application, or research!
 
 _:office: Affiliations_
 -----
