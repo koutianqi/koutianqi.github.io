@@ -23,6 +23,7 @@ _Publication_
 
 _<span style="color:red">News</span>_
 -----
+**2024/4/29** _Received ACM FAccT'24 Travel Award_\
 **2024/3/29** _solo-authored paper accepted to ACM FAccT'24, first submission and publication!_\
 **2024/3/12** _received Dean's Travel Award from Penn State College of IST_\
 **2024/1/05** _selected as a Liberatory Tech Scholar to work as a Tech Explainer and Fact Checker at Logic(s) Magazine_\
