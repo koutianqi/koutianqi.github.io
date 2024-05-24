@@ -12,6 +12,7 @@ Ph.D student at the College of Information Sciences and Technology at Pennsylvan
 
 _Affiliations_
 -----
+_[<span style="color:green">Critical Technocultures Lab</span>](https://www.crit-technocultures.com) - lab member_\
 _[<span style="color:blue">Center for Socially Responsible Artificial Intelligence</span>](https://csrai.psu.edu) - student affiliate_\
 _[<span style="color:purple">THiCC Lab</span>](https://sites.psu.edu/thicc/) - Liberatory Tech Scholar_\
 _[<span style="color:grey">LOGIC(S)</span>](https://logicmag.io) - Fact Checker_
