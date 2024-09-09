@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D student at the College of Information Sciences and Technology at Pennsylvania State University. My research lies at the intersection of feminist philosophy of science, science and technology studies, and AI ethics. Previous to my academic career as a doctoral student, I was trained in Machine Learning and Statistics, and worked in the industry as an ML engineer.
+Ph.D candidate at the College of Information Sciences and Technology at Pennsylvania State University. My research lies at the intersection of feminist philosophy of science, science and technology studies, and AI ethics. Previous to my academic career as a doctoral student, I was trained in Machine Learning and Statistics, and worked in the industry as an ML engineer.
 
 _Affiliations_
 -----
@@ -24,6 +24,7 @@ _Publication_
 
 _<span style="color:red">News</span>_
 -----
+**2024/8/23** _defended my dissertation proposal and officially a candidate!_\
 **2024/4/29** _received ACM FAccT'24 Travel Award_\
 **2024/3/29** _solo-authored paper accepted to ACM FAccT'24, first submission and publication!_\
 **2024/3/12** _received Dean's Travel Award from Penn State College of IST_\
