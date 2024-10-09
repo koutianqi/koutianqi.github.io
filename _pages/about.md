@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D candidate at the College of Information Sciences and Technology at Pennsylvania State University. My research lies at the intersection of feminist philosophy of science, science and technology studies, and AI ethics. Previous to my academic career as a doctoral student, I was trained in Machine Learning and Statistics, and worked in the industry as an ML engineer.
+Ph.D candidate, ai ethics, feminist philosophy of science, science and technology studies. I am co-advised by Dr. Dana Calacci and Dr. Fred Fonseca
 
 _Affiliations_
 -----
