@@ -20,7 +20,7 @@ _[<span style="color:grey">LOGIC(S)</span>](https://logicmag.io) - Fact Checker_
 
 _Publication_
 -----
-(*indicates lead author)\
+(\*indicates lead author*)\
 • (Forthcoming) **Tianqi Kou***, Dana Calacci, Cindy Lin. 2025. Dead Zone of Accountability: Why Social Claims in Machine Learning Research Should be Articulated and Defended. Proceedings of the 2024 AAAI/ACM Conference on AI, Ethics, and Society (AIES ’25). (acceptance rate 34%) [<span style="color:red">link</span>]()\
 • **Tianqi Kou**. 2024. From Model Performance to Claim: How a Change of Focus in Machine Learning Replicability Can Help Bridge the Responsibility Gap. The 2024 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’24). (acceptance rate 24%) [<span style="color:red">link</span>](https://dl.acm.org/doi/10.1145/3630106.3658951)
 
