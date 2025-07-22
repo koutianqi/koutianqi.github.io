@@ -12,6 +12,7 @@ Ph.D candidate, ai ethics, feminist philosophy of science, science and technolog
 
 _Affiliations_
 -----
+_[<span style="color:green">Working Futures Network</span>]() - lab member_\
 _[<span style="color:green">Critical Technocultures Lab</span>](https://www.crit-technocultures.com) - visiting scholar_\
 _[<span style="color:blue">CSRAI</span>](https://csrai.psu.edu) - student affiliate_\
 _[<span style="color:purple">THiCC Lab</span>](https://sites.psu.edu/thicc/) - Liberatory Tech Scholar_\
