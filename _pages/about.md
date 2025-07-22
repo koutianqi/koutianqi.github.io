@@ -26,7 +26,7 @@ _Publication_
 
 _<span style="color:red">News</span>_
 -----
-**2025/7/18** _New Paper Accepted to ACM/AAAI AIES'25_\
+**2025/7/18** _lead author paper accepted to ACM/AAAI AIES'25_\
 **2025/4/21** _selected as the finalist of 2025 Sloan Foundation Postdoctoral Fellow_\
 **2024/8/23** _defended my dissertation proposal and officially a candidate!_\
 **2024/4/29** _received ACM FAccT'24 Travel Award_\
