@@ -27,7 +27,7 @@ _Publication_
 _<span style="color:red">News</span>_
 -----
 **2025/7/18** _lead author paper accepted to ACM/AAAI AIES'25_\
-**2025/4/21** _selected as the finalist of 2025 Sloan Foundation Postdoctoral Fellow_\
+**2025/4/21** _selected as one of the finalists of 2025 Sloan Foundation Postdoctoral Fellow_\
 **2024/8/23** _defended my dissertation proposal and officially a candidate!_\
 **2024/4/29** _received ACM FAccT'24 Travel Award_\
 **2024/3/29** _solo-authored paper accepted to ACM FAccT'24, first submission and publication!_\
@@ -38,7 +38,7 @@ _<span style="color:red">News</span>_
 **2023/04/01** _served as a panelist at the Queer and Trans Graduate Students in STEM Panel_\
 **2022/10/12** _poster on Replicability in Machine Learning Research admitted to ICDS 2022 Symposium_\
 **2022/06** _marched in pride parade at State College :D_\
-**2022/05** nominated internally by the College of IST for 2022 Microsoft Ph.D Fellowship\
+**2022/05** _nominated internally by the College of IST for 2022 Microsoft Ph.D Fellowship_\
 **2021/11**  _passed Qualifying Exam_\
 **2020/08** _joined Penn State IST!_
 
