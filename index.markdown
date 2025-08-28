@@ -8,6 +8,8 @@ title: "Tianqi Kou"
 # Welcome!
 
 I am a PhD Candidate at Penn State Information School advised by [<span style="color:blue">Dr. Dana Calacci</span>](https://www.dcalacci.net), an affiliate of [<span style="color:blue">Center for Socially Responsible Artificial Intelligence (CSRAI)</span>](https://csrai.psu.edu), and a Liberal Tech Scholar at critical tech pubilcation [<span style="color:blue">LOGIC(S)</span>](https://logicmag.io).
+
+🌟I am on academia job market seeking postdoc positions
   </div>
   <img class="headshot" src="{{ "/assets/img/headshot_crop.jpg" | relative_url }}" alt="Headshot" />
 </div>
@@ -16,6 +18,7 @@ I am a PhD Candidate at Penn State Information School advised by [<span style="c
 <div style="clear: both; height: 16px;"></div>
 
 ## Bio:
+
 
 Tianqi Kou is a Research Associate in the Data Governance and Privacy group at the Urban Institute, an adjunct professor at the Inter-University Consortium for Political and Social Research (ICPSR) at the University of Michigan, and an affiliate faculty member of the Center for Ethics, Society, and Computing (ESC).
 
