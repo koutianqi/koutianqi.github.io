@@ -32,7 +32,7 @@ Before Penn State, Tianqi was an Machine Learning Engineer. He received his BS i
 - (2025 July) Lead author paper (w/ Dana Calacci and Cindy Lin) has been accepted to the 2025 ACM/AAAI AI Ethics and Society. [<span style="color:blue">preprint</span>](https://arxiv.org/abs/2508.08739)) [TL;DR]
 - (2025 May) I will attend the Privacy Law Scholar Conference at UCLA this year!
   - Fascinating discussions with Rohan Grover on his WIP on politics of expertise, and
-  - Amina Abdu and Abigail Jacob's now forthcoming article on standard as metaphor.
+  - Amina Abdu and Abigail Jacob's (now forthcoming article) on standard as metaphor!
 - I served on two PETs in education research panels for our work on State Longitudinal Data Systems: one with the Council of Chief State School Officers and one with the Future of Privacy Forum. Thanks to the Bill and Melinda Gates Foundation for supporting our work!
 - Our paper “Critical Provcations for Synthetic Data” (with Daniel Susser) is out at Surveillance and Society.
 - New preprint: “Differentially Private Population Quantity Estimates via Survey Weight Regularization” (w/ Yajuan Si and Jerome Reiter). This is the full version of our NBER chapter. (Link)
