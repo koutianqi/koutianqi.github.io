@@ -1,0 +1,11 @@
+title: "Tianqi Kou"
+markdown: kramdown
+theme: null
+plugins: []
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+permalink: pretty
+
