@@ -29,7 +29,7 @@ Before Penn State, Tianqi was an Machine Learning Engineer. He received his BS i
 ## Recent news:
 
 - (2025 Oct) I will present our paper (w/ [<span style="color:blue">Dana Calacci</span>](https://www.dcalacci.net) and [<span style="color:blue">Cindy Lin</span>](https://lincindy.com)) "Dead Zone of Accountability" in Madrid, Spain from 20th to 22nd
-- (2025 Sep) I will present our work in progress (w/ Dana Calacci and Nasser Eledroos) at the inaugural [<span style="color:blue">Hyper Studies Conference </span>](https://hypestudies.org) in Barcelona, Spain held at  Universitat Oberta de Catalunya.
+- (2025 Sep) I will present our work in progress (w/ [<span style="color:blue">Dana Calacci</span>](https://www.dcalacci.net) and [<span style="color:blue">Nasser Eledroos</span>](https://nasser.wiki) at the inaugural [<span style="color:blue">Hyper Studies Conference </span>](https://hypestudies.org) in Barcelona, Spain held at  Universitat Oberta de Catalunya.
   - The conference has a mixed attendees such as researchers, designers, filmmakers, come say hi! I will present on the opening day of the 10th
 - (2025 Jul) Lead author paper (w/ Dana Calacci and Cindy Lin) has been accepted to the 2025 ACM/AAAI AI Ethics and Society. This paper delineats the epistemic conditions of ML that resist meaningful accountability for the communicative dimension of ML research. Full paper preprint [<span style="color:blue">here</span>](https://arxiv.org/abs/2508.08739) or [<span style="color:blue">[TL;DR]</span>](https://bsky.app/profile/koutianqi.bsky.social/post/3lwarwucjs22q) 
 - (2025 May) I will attend the Privacy Law Scholar Conference at UCLA this year!
