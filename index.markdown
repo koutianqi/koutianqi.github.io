@@ -34,7 +34,7 @@ Before Penn State, Tianqi was an Machine Learning Engineer. He received his BS i
 - (2025 Jul) Lead author paper (w/ Dana Calacci and Cindy Lin) has been accepted to the 2025 ACM/AAAI AI Ethics and Society. This paper delineats the epistemic conditions of ML that resist meaningful accountability for the communicative dimension of ML research. Full paper preprint [<span style="color:blue">here</span>](https://arxiv.org/abs/2508.08739) or [<span style="color:blue">[TL;DR]</span>](https://bsky.app/profile/koutianqi.bsky.social/post/3lwarwucjs22q) 
 - (2025 May) I will attend the Privacy Law Scholar Conference at UCLA this year!
   - Fascinating discussions with [<span style="color:blue">Rohan Grover</span>](https://www.rohangrover.org) on his WIP on politics of expertise, and
-  - [<span style="color:blue">Amina Abdu</span>](https://aminaxabdu.github.io) and [<span style="color:blue">Abigail Jacob's</span>](https://azjacobs.com)(now forthcoming article) on standard as metaphor!
+  - [<span style="color:blue">Amina Abdu</span>](https://aminaxabdu.github.io) and [<span style="color:blue">Abigail Jacob's</span>](https://azjacobs.com) (now forthcoming article) on standard as metaphor!
 - (2025 May) Honored to be one of the finalists of 2025 Sloan Metascience and AI Postdoctoral Fellow, many thanks to the great [<span style="color:blue">Richmond Wong</span>](https://richmondywong.com)
 - (2024 Oct) Invited by the **Digital Life Initiative at CornellTech** to present my previous and ongoing work on the relationship between Machine Learning research practice reform and the social impact of ML-based technologies.
 - (2024 Aug) Passed my comprehensive exam, officially a PhD candidate
