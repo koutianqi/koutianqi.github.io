@@ -7,6 +7,7 @@ title: "Tianqi Kou"
   <div markdown="1">
 # Welcome!
 
+I am a PhD Candidate at Penn State Information School advised by [<span style="color:blue">Dr. Dana Calacci</span>](https://www.dcalacci.net), an affiliate of [Center for Socially Responsible Artificial Intelligence (CSRAI)](https://csrai.psu.edu), and a Liberal Tech Scholar at critical tech pubilcation [LOGIC(S)](https://logicmag.io).
 I am a Research Associate in the Data Governance and Privacy Practice Area at the Urban Institute and an adjunct professor at the Inter-University Consortium for Political and Social Research (ICPSR) at the University of Michigan.
   </div>
   <img class="headshot" src="{{ "/assets/img/headshot_crop.jpg" | relative_url }}" alt="Headshot" />
