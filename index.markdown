@@ -6,7 +6,7 @@ title: "Tianqi Kou"
 <div class="intro">
   <div>
     <h1>Welcome!</h1>
-    <p>I am a PhD Candidate at Penn State Information School, an affiliate of [<span style="color:blue">Center for Socially Responsible Artificial Intelligence (CSRAI)</span>](https://csrai.psu.edu), and a Liberal Tech Scholar at critical tech pubilcation [<span style="color:blue">LOGIC(S)</span>](https://logicmag.io).</p>
+    <p>I am a PhD Candidate at Penn State Information School advised by [<span style="color:blue">Dr. Dana Calacci</span>](https://www.dcalacci.net), an affiliate of [<span style="color:blue">Center for Socially Responsible Artificial Intelligence (CSRAI)</span>](https://csrai.psu.edu), and a Liberal Tech Scholar at critical tech pubilcation [<span style="color:blue">LOGIC(S)</span>](https://logicmag.io).</p>
   </div>
   <img class="headshot" src="{{ "/assets/img/headshot_crop.jpg" | relative_url }}" alt="Headshot" />
 </div>
