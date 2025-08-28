@@ -7,7 +7,7 @@ title: "Tianqi Kou"
   <div markdown="1">
 # Welcome!
 
-I am a PhD Candidate at Penn State Information School advised by [<span style="color:blue">Dr. Dana Calacci</span>](https://www.dcalacci.net), an affiliate of [<span style="color:blue">Center for Socially Responsible Artificial Intelligence (CSRAI)</span>](https://csrai.psu.edu), and a Liberal Tech Scholar at critical tech pubilcation [<span style="color:blue">LOGIC(S)</span>](https://logicmag.io).
+I am a PhD Candidate at Penn State Information School advised by [<span style="color:blue">Dr. Dana Calacci</span>](https://www.dcalacci.net), an affiliate of [<span style="color:blue">Center for Socially Responsible Artificial Intelligence (CSRAI)</span>](https://csrai.psu.edu) at Penn State, and a Liberal Tech Scholar at critical tech pubilcation [<span style="color:blue">LOGIC(S)</span>](https://logicmag.io). I am also a visiting scholar at [<span style="color:blue">Critical Technocultures Lab</span>](https://www.crit-technocultures.com) at the School of Interactive Computing at Georgia Tech.
 
 🌟I am on academia job market seeking postdoc positions
   </div>
@@ -20,7 +20,7 @@ I am a PhD Candidate at Penn State Information School advised by [<span style="c
 ## Bio:
 
 
-Tianqi Kou is a 4th year PhD Candidate at Penn State Information School advised by [<span style="color:blue">Dr. Dana Calacci</span>](https://www.dcalacci.net), a student affiliate of [<span style="color:blue">Center for Socially Responsible Artificial Intelligence (CSRAI)</span>](https://csrai.psu.edu), and a Liberal Tech Scholar at critical tech pubilcation [<span style="color:blue">LOGIC(S)</span>](https://logicmag.io). I am also a visiting scholar at [<span style="color:blue">Critical Technocultures Lab</span>](https://www.crit-technocultures.com) at the School of Interactive Computing at Georgia Tech.
+Tianqi Kou is a 4th year PhD Candidate at Penn State Information School advised by [<span style="color:blue">Dr. Dana Calacci</span>](https://www.dcalacci.net), a student affiliate of [<span style="color:blue">Center for Socially Responsible Artificial Intelligence (CSRAI)</span>](https://csrai.psu.edu), and a Liberal Tech Scholar at critical tech pubilcation [<span style="color:blue">LOGIC(S)</span>](https://logicmag.io). He is also a visiting scholar at [<span style="color:blue">Critical Technocultures Lab</span>](https://www.crit-technocultures.com) at the School of Interactive Computing at Georgia Tech.
 
 Tianqi’s research focuses on **ethics, politics, and policy** in the production of Machine Learning knowledge & technology. Trained in Philosophy of Science and Science and Technology Studies, Tianqi is particularly interested in investigating the relationship between the epistemic and ethical dimensions of the processes of ML knowledge and technology production to generate conceptual and practical tools and understanding to inform policy, regulation, legal reforms that ensure responsible production and dissemination of ML knowledge and production. Tianqi identifies conceptual problems that clarify these relationships and propose both conceptual and practical solutions. Tianqi's research has been featured in interdisciplinary venues including philosophy of science, computer science, policy, and human-computer interaction. Currently, Tianqi is studying hype as a relational phenomenon and its implications for Machine Learning based policing tools. His work aligns with the missions of numerous institutions spanning research reform and governance bodies of Technology
 
