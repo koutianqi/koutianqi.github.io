@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ page.title | default: site.title }}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@300;400;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="{{ "/assets/css/styles.css" | relative_url }}" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <nav class="nav" aria-label="Primary">
+          <a class="brand" href="{{ "/" | relative_url }}"><img class="site-logo" src="{{ "/assets/img/title.png" | relative_url }}" alt="Site logo" /><span class="site-title-text">Tianqi Kou</span></a>
+          <button class="nav-toggle" aria-expanded="false" aria-controls="nav-menu">Menu</button>
+          <ul id="nav-menu" class="nav-menu">
+            <li><a href="{{ "/" | relative_url }}">Home</a></li>
+            <li><a href="{{ "/pages/research" | relative_url }}">Research</a></li>
+            <li><a href="{{ "/pages/teaching" | relative_url }}">Teaching</a></li>
+            <li><a href="{{ "/pages/cv" | relative_url }}">CV</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main class="site-main">
+      {{ content }}
+      <section id="contact" class="section">
+        <div class="container">
+          <div class="contact-follow">
+            <div class="contact-col">
+              <h2>Contact</h2>
+              <ul class="contact-list">
+                <li><img class="icon" src="{{ "/assets/img/email.png" | relative_url }}" alt="" /> <a href="mailto:">Email</a></li>
+              </ul>
+            </div>
+            <div class="follow-col">
+              <h2>Follow</h2>
+              <ul class="social-list social-grid">
+                <li><a href="#" aria-label="Google Scholar"><img class="icon" src="{{ "/assets/img/googlescholar.png" | relative_url }}" alt="" />GoogleScholar</a></li>
+                <li><a href="#" aria-label="arXiv"><img class="icon" src="{{ "/assets/img/arxiv.png" | relative_url }}" alt="" />arXiv</a></li>
+                <li><a href="#" aria-label="SSRN"><img class="icon" src="{{ "/assets/img/ssrn.png" | relative_url }}" alt="" />SSRN</a></li>
+                <li><a href="#" aria-label="GitHub"><img class="icon" src="{{ "/assets/img/github.png" | relative_url }}" alt="" />GitHub</a></li>
+                <li><a href="#" aria-label="LinkedIn"><img class="icon" src="{{ "/assets/img/linkedin.png" | relative_url }}" alt="" />LinkedIn</a></li>
+                <li><a href="#" aria-label="ORCID"><img class="icon" src="{{ "/assets/img/orcid.png" | relative_url }}" alt="" />ORCID</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p>© <span id="year"></span> Tianqi Kou</p>
+      </div>
+    </footer>
+
+    <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
+  </body>
+  </html>
+
+
