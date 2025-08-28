@@ -8,7 +8,7 @@ title: "Tianqi Kou"
     <div class="hero-text">
       <h1>Hello!</h1>
       <p>
-        I am a Research Associate in the Data Governance and Privacy Practice Area at the Urban Institute and an adjunct professor at the Inter-University Consortium for Political and Social Research (ICPSR) at the University of Michigan.
+        I am a PhD Candidate at Penn State Information School, an Affiliate at Center for Socially Responsible Artificial Intelligence (CSRAI), and a Liberal Tech Scholar at Critical Computing tech publication Logic(s) Mag.
       </p>
     </div>
     <div class="hero-media">
