@@ -1,7 +1,3 @@
-layout: page
-title: "CV — Tianqi Kou"
-permalink: /pages/cv/
-
 ## CV
 
 [Download CV [PDF]]({{ "/assets/Tianqi_Kou_CV.pdf" | relative_url }})
