@@ -28,7 +28,7 @@ Before Penn State, Tianqi was an Machine Learning Engineer. He received his BS i
 
 ## Recent news:
 
-- I talked about / taught privacy-enhancing technologies at the inaugural Georgetown University PETs Summer Institute.
+- (2025/09/10) I will present our work in progress (w/ Dana Calacci and Nasser Eledroos) at the inaugural [<span style="color:blue">Hyper Studies Conference </span>](https://hypestudies.org) in Barcelona, Spain held at  Universitat Oberta de Catalunya.
 - New open-source software: tidysynthesis and syntheval for synthetic data decision-making management in generation and evaluation. Read the docs to learn more!
 - Two new policy briefs:
   - New Urban Institute brief on Synthetic Data for Nebraska’s Statewide Workforce and Education Reporting System (NSWERS)
