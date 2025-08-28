@@ -7,7 +7,7 @@ title: "Tianqi Kou"
 
 ![Headshot]({{ "/assets/img/headshot_crop.jpg" | relative_url }}){: .headshot }
 
-I am a Research Associate in the Data Governance and Privacy Practice Area at the Urban Institute and an adjunct professor at the Inter-University Consortium for Political and Social Research (ICPSR) at the University of Michigan.
+I am a PhD Candidate at Penn State Information School, an Affiliate at [<span style="color:blue">Center for Socially Responsible Artificial Intelligence (CSRAI)</span>](https://csrai.psu.edu), and a Liberal Tech Scholar at Critical Computing tech publication [<span style="color:blue">Logic(s) Mag</span>](https://logicmag.io).
 
 ## Bio:
 
