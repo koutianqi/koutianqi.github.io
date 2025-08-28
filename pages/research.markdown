@@ -1,8 +1,4 @@
-layout: page
-title: "Research — Tianqi Kou"
-permalink: /pages/research/
-
-This page is only periodically updated - see my Google Scholar page for more complete publication updates.
+This page is only periodically updated
 
 ## Selected publications
 
