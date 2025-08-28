@@ -1,9 +1,9 @@
 This page is only periodically updated
 
 ## Selected work in progress 
- - "Charting the Path for New Accountability: Gap and Challenges in Designing for the Implementation of Social Claim Replicability".
+ - "Charting the Path for New Accountability: Gap and Challenges in Designing for the Implementation of Social Claim Replicability."
  - "What is AI Hype? A Relational Conception: Demonstration Using Four Machine Learning Based Policing Tools
-hype in AI-Based Policing Tools"
+hype in AI-Based Policing Tools."
 
 ## Selected publications
 
