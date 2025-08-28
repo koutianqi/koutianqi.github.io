@@ -29,7 +29,7 @@ Before Penn State, Tianqi was an Machine Learning Engineer. He received his BS i
 ## Recent news:
 
 - (2025 Sep 10th) I will present our work in progress (w/ Dana Calacci and Nasser Eledroos) at the inaugural [<span style="color:blue">Hyper Studies Conference </span>](https://hypestudies.org) in Barcelona, Spain held at  Universitat Oberta de Catalunya.
-- (2025 July) Lead author paper (w/ Dana Calacci and Cindy Lin) has been accepted to the 2025 ACM/AAAI AI Ethics and Society. [<span style="color:blue">preprint</span>]([https://hypestudies.org](https://arxiv.org/abs/2508.08739)) [TL;DR]
+- (2025 July) Lead author paper (w/ Dana Calacci and Cindy Lin) has been accepted to the 2025 ACM/AAAI AI Ethics and Society. [<span style="color:blue">preprint</span>](https://arxiv.org/abs/2508.08739)) [TL;DR]
 - (2025 May) I will attend the Privacy Law Scholar Conference at UCLA this year!
   - Fascinating discussions with Rohan Grover on his WIP on politics of expertise, and
   - Amina Abdu and Abigail Jacob's now forthcoming article on standard as metaphor.
