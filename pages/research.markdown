@@ -1,9 +1,8 @@
 This page is only periodically updated
 
 ## Selected work in progress 
- - "Charting the Path for New Accountability: Gap and Challenges in Designing for the Implementation of Social Claim Replicability."
- - "What is AI Hype? A Relational Conception: Demonstration Using Four Machine Learning Based Policing Tools
-hype in AI-Based Policing Tools."
+ - "Path to New Forms of Machine Learning Accountability: Identifying Gap and Challenges in Designing for the Implementation of Social Claim Replicability." (w/ Dana Calacci and Richmond Wong)
+ - "What is the Hype? A Relational Conception: Demonstration Using Four Machine Learning Based Policing Tools." (w/ Dana Calacci, Nasser Eledroos, and David Gray Widder)
 
 ## Selected publications
 
