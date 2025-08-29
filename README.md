@@ -5,6 +5,9 @@ first time using html to build stuff, exciting
 ## Structure
 
 ```
+_layout_/
+  default
+  
 assets/
   css/styles.css
   js/main.js
