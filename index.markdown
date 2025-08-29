@@ -19,7 +19,10 @@ I am a PhD Candidate at Penn State Information School advised by [<span style="c
 
 ## Bio:
 
-My research examines **the ethics and politics in the production and dissemination Machine Learning (ML) research and technology**, with a focus on the relationship between epistemic and ethical accountability. Trained in Philosophy of Science and Science and Technology Studies, I combine philosophical analysis with social science methods to reveal communicative dysfuncion in knowledge & technology production processes, address normative concerns of why should it be addressed, and practical questions of how it should be solved, with the goal of strengthening accountability. I am passionate about translating these insights into practical tools, academic reforms, technology policy, and legal regulation. My work has appeared in venues spanning Philosophy of Science, Computer Science, and Human–Computer Interaction. Read more about my previous and ongoing projects [here](https://koutianqi.github.io/pages/research/).
+My research examines **the ethics and politics in the production and dissemination Machine Learning (ML) research and technology**, with a focus on epistemic and ethical accountability. Combining philosophical analysis with social scientific methods from Science and Technology Studies, I identify and address communicative dysfunctions in ML research and technology production and disemination - analyzing what goes wrong, why it matters, and how to fix it. My ultimate aim is to strengthen accountability mechanisms through practical tools, institutional reforms, technology policy, and regulatory frameworks. My work has appeared in venues spanning Philosophy of Science, Computer Science, and Human–Computer Interaction. Read more about my previous and ongoing projects [here](https://koutianqi.github.io/pages/research/).
+
+My research examines ethical and political dimensions of machine learning research & technology production, focusing on the intersection of epistemic and ethical accountability.
+
 
 Before Penn State, I was in the industry working two years as an Machine Learning Engineer. I received a BS in Economics at Harbin Institute of Technology and Monash University with high honors, and an MS in Computer Science from Fordham University with Dean's Fellowship where I developed a semi-supervised variant of Support Vector Machine.
 
