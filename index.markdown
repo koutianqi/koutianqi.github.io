@@ -21,7 +21,7 @@ I am a PhD Candidate at Penn State Information School advised by [<span style="c
 
 My research examines **the ethics and politics in the production and dissemination Machine Learning (ML) research and technology**, with a focus on epistemic and ethical accountability. Combining philosophical analysis with social scientific methods from Science and Technology Studies, I identify and address communicative dysfunctions in ML research and technology production and disemination - analyzing what goes wrong, why it matters, and how to fix it. My ultimate aim is to strengthen accountability mechanisms through practical tools, institutional reforms, technology policy, and regulatory frameworks. My work has appeared in venues spanning Philosophy of Science, Computer Science, and Human–Computer Interaction. Read more about my previous and ongoing projects [here](https://koutianqi.github.io/pages/research/).
 
-Before Penn State, I was in the industry working two years as an Machine Learning Engineer. I received a BS in Economics at Harbin Institute of Technology and Monash University with high honors, and an MS in Computer Science from Fordham University with Dean's Fellowship where I developed a semi-supervised variant of Support Vector Machine.
+Before Penn State, I worked in the industry for two years as an Machine Learning Engineer. I received a BS in Economics at Harbin Institute of Technology and Monash University with high honors, and an MS in Computer Science from Fordham University with Dean's Fellowship where I developed a semi-supervised variant of Support Vector Machine.
 
 ## Recent news:
 
