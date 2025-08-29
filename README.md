@@ -1,6 +1,6 @@
 # Tianqi Kou — Static Site
 
-This repository contains a simple static site adapted from the public content and structure of [drjeremyseeman.com](https://drjeremyseeman.com/#), with the name updated to Tianqi Kou.
+first time using html to build stuff, exciting
 
 ## Local development
 
@@ -24,7 +24,7 @@ index.html
 
 ## Notes
 
-- Content is adapted from the public website for demonstration purposes. Replace placeholder links (e.g., social profiles) with real URLs as needed.
+- Design inspo from various academics' websites that I liked.
 - The design uses a lightweight, responsive layout with no build step.
 
 ## License
