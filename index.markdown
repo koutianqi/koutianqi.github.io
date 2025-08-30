@@ -35,11 +35,11 @@ Before Penn State, I worked in the industry for two years as a Machine Learning 
   - Fascinating discussions with [Rohan Grover](https://www.rohangrover.org) on his WIP on politics of expertise, and
   - [Amina Abdu](https://aminaxabdu.github.io) and [Abigail Jacob's](https://azjacobs.com) (now forthcoming) article on standard as metaphor!
 - (2025 May) Honored to be one of the finalists of 2025 Sloan Metascience and AI Postdoctoral Fellow, many thanks to the great [Richmond Wong](https://richmondywong.com).
+- (2024 Oct) Invited by the **Digital Life Initiative at CornellTech** to present my previous and ongoing work on the relationship between Machine Learning research practice reform and the social impact of ML-based technologies.
 
 <details class="older-updates" markdown="1">
   <summary>Older updates</summary>
 
-- (2024 Oct) Invited by the **Digital Life Initiative at CornellTech** to present my previous and ongoing work on the relationship between Machine Learning research practice reform and the social impact of ML-based technologies.
 - (2024 Aug) Passed my comprehensive exam, officially a PhD candidate.
 - My FAccT paper has been featured by the College of Information Sciences and Technology at Penn State. Read the story [here](https://ist.psu.edu/news/claim-replicability-may-help-prevent-harms-caused-by-ml)!
 - (2024 Jun) Presented my **first and solo authored paper** "From Model Performance Replicability to Claim Replicability" at 2024 ACM Conference Fairness Accountability and Transparency at Rio de Janeiro, Brazil. [article](https://arxiv.org/pdf/2404.13131?) or [TL;DR](https://x.com/koutianqi1/status/1782586574850449812).
