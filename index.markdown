@@ -42,6 +42,7 @@ Before Penn State, I worked in the industry for two years as a Machine Learning 
 - My FAccT paper has been featured by the College of Information Sciences and Technology at Penn State. Read the story [here](https://ist.psu.edu/news/claim-replicability-may-help-prevent-harms-caused-by-ml)!
 - (2024 Jun) Presented my **first and solo authored paper** "From Model Performance Replicability to Claim Replicability" at 2024 ACM Conference Fairness Accountability and Transparency at Rio de Janeiro, Brazil. Full paper [here](https://arxiv.org/pdf/2404.13131?) or [TL;DR](https://x.com/koutianqi1/status/1782586574850449812).
 - (2024 May) Attended NortheastHCI Conference (an alternative to CHI 2024) at Pittsburgh, PA.
+  - test
 
 </details>
 
