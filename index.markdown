@@ -25,7 +25,8 @@ Before Penn State, I worked in the industry for two years as a Machine Learning 
 
 ## Recent news:
 
-- (2025 Oct) I will present our paper (w/ [Dana Calacci](https://www.dcalacci.net) and [Cindy Lin](https://lincindy.com)) "Dead Zone of Accountability" in Madrid, Spain from 20th to 22nd
+- (2025 Oct) I will present our paper (w/ [Dana Calacci](https://www.dcalacci.net) and [Cindy Lin](https://lincindy.com)) "Dead Zone of Accountability" in Madrid, Spain from 20th to 22nd.
+- test test test test
 - (2025 Sep) I will present our work in progress (w/ [Dana Calacci](https://www.dcalacci.net) and [Nasser Eledroos](https://nasser.wiki)) at the inaugural [Hype Studies Conference](https://hypestudies.org) in Barcelona, Spain held at Universitat Oberta de Catalunya.
   - The conference has a mixed attendees such as researchers, designers, filmmakers, come say hi! I will present on the opening day of the 10th
 - (2025 Jul) Lead author paper (w/ Dana Calacci and Cindy Lin) has been accepted to the 2025 ACM/AAAI AI Ethics and Society. This paper delineats the epistemic conditions of ML that resist meaningful accountability for the communicative dimension of ML research. Full paper preprint [here](https://arxiv.org/abs/2508.08739) or [TL;DR](https://bsky.app/profile/koutianqi.bsky.social/post/3lwarwucjs22q)
