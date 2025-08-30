@@ -13,7 +13,7 @@ I am a PhD Candidate at Penn State Information School advised by [Dr. Dana Calac
 </div>
 
 <div class="card" markdown="1">
-🌟I am on academia job market seeking postdoc positions. If you know a good fit, please reach out to me at, tfk [at] psu [dot] edu.
+🌟I am on academia job market seeking postdoc positions. If you know a good fit, please reach out to me at, tfk [at] psu.edu.
 </div>
 
 
@@ -30,7 +30,7 @@ Before Penn State, I worked in the industry for two years as a Machine Learning 
 - (2025 Oct) I will present our paper (w/ [Dana Calacci](https://www.dcalacci.net) and [Cindy Lin](https://lincindy.com)) "Dead Zone of Accountability" in Madrid, Spain from 20th to 22nd.
 - (2025 Sep) I will present our work in progress (w/ [Dana Calacci](https://www.dcalacci.net) and [Nasser Eledroos](https://nasser.wiki)) at the inaugural [Hype Studies Conference](https://hypestudies.org) in Barcelona, Spain held at Universitat Oberta de Catalunya.
   - The conference has a mixed attendees such as researchers, designers, filmmakers, come say hi! I will present on the opening day of the 10th.
-- (2025 Jul) Lead author paper (w/ [Dana Calacci](https://www.dcalacci.net) and [Cindy Lin](https://lincindy.com)) has been accepted to the 2025 ACM/AAAI AI Ethics and Society. This paper delineats the epistemic conditions of ML that resist meaningful accountability for the communicative dimension of ML research. [Preprint](https://arxiv.org/abs/2508.08739) or [TL;DR](https://bsky.app/profile/koutianqi.bsky.social/post/3lwarwucjs22q).
+- (2025 Jul) Lead author paper (w/ [Dana Calacci](https://www.dcalacci.net) and [Cindy Lin](https://lincindy.com)) has been accepted to the 2025 ACM/AAAI AI Ethics and Society. This paper delineats the epistemic conditions of ML that resist meaningful accountability for the communicative dimension of ML research. [Preprint](https://arxiv.org/abs/2508.08739) or [TL;DR](https://www.linkedin.com/posts/koutianqi_dead-zone-of-accountability-why-social-claims-activity-7361214088003108864-3aJR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACPLLPcBeEM19ytgUOpXQQb6x_SjOdrvjtQ).
 - (2025 May) I will attend the Privacy Law Scholar Conference at UCLA this year!
   - Fascinating discussions with [Rohan Grover](https://www.rohangrover.org) on his WIP on politics of expertise, and
   - [Amina Abdu](https://aminaxabdu.github.io) and [Abigail Jacob's](https://azjacobs.com) (now forthcoming) law review article on standard as metaphor!
