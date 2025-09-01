@@ -44,6 +44,16 @@ Before Penn State, I worked in the industry for two years as a Machine Learning 
 - My FAccT paper has been featured by the College of Information Sciences and Technology at Penn State. Read the story [here](https://ist.psu.edu/news/claim-replicability-may-help-prevent-harms-caused-by-ml)!
 - (2024 Jun) Presented my **first and solo authored paper** "From Model Performance Replicability to Claim Replicability" at 2024 ACM Conference Fairness Accountability and Transparency at Rio de Janeiro, Brazil. [Article](https://arxiv.org/pdf/2404.13131?) or [TL;DR](https://x.com/koutianqi1/status/1782586574850449812).
 - (2024 May) Attended NortheastHCI Conference (an alternative to CHI 2024) at Pittsburgh, PA.
+- (2024 Apr) Received ACM FAccT'24 Travel Award.
+- (2024 Mar) Received Dean's Travel Award.
+- (2024 Jan) Joined [LOGIC(S)](https://logicmag.io) as a Liberatory Tech Scholar.
+- (2023 Oct) Poster presentation on contradictions between ML replicability and feminist epistemic values at ICDS 2022 Symposium.
+- (2023 Sep) I am presenting my work "Function of Replicability in Machine Learning Research" for PhilML 2023 at the University of Tübingen, at Tübingen, Germany.
+- (2023 May) Paper abstract accepted by PhilML2023: Philosophy of Science Meets Machine Learning Conference.
+- (2023 Apr) I am joined attend the Queer and Trans Graduate Students in STEM Panel as a panelist.
+- (2022 Oct) Poster on Replicability in Machine Learning Research admitted to ICDS 2022 Symposium.
+- (2022 Jun) I joint organized "Be You in STEM" with the College of IST during the pride parade at State College, PA!
+- (2022 May) Nominated by the College of IST for 2022 Microsoft Ph.D Fellowship.
 
 </details>
 
