@@ -13,7 +13,7 @@ I am a PhD Candidate at Penn State Information School advised by [Dr. Dana Calac
 </div>
 
 <div class="card" markdown="1">
-🌟I am on academia job market seeking postdoc positions centering (1) philosophical and empirical analyses of responsible communication in Machine Learning, and (2) the policy and regulatory possibilities that follow. If you know a good fit, please reach out to me at, tfk [at] psu.edu.
+🌟 I am on academia job market seeking postdoc positions centering (1) philosophical and empirical analyses of responsible communication in Machine Learning, and (2) the policy and regulatory possibilities that follow. If you know a good fit, please reach out to me at, tfk [at] psu.edu.
 </div>
 
 
