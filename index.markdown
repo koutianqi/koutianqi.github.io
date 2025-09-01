@@ -13,7 +13,7 @@ I am a PhD Candidate at Penn State Information School advised by [Dr. Dana Calac
 </div>
 
 <div class="card" markdown="1">
-🌟I am on academia job market seeking postdoc positions. If you know a good fit, please reach out to me at, tfk [at] psu.edu.
+🌟I am on academia job market seeking postdoc positions. I conduct projects on (1) philosophical and empirical analyses of responsible communication in Machine Learning, and (2) the policy and regulatory possibilities that follow. If you know a good fit, please reach out to me at, tfk [at] psu.edu.
 </div>
 
 
@@ -52,7 +52,7 @@ Before Penn State, I worked in the industry for two years as a Machine Learning 
 - (2023 May) Paper abstract accepted by PhilML2023: Philosophy of Science Meets Machine Learning Conference.
 - (2023 Apr) I am joined attend the Queer and Trans Graduate Students in STEM Panel as a panelist.
 - (2022 Oct) Poster on Replicability in Machine Learning Research admitted to ICDS 2022 Symposium.
-- (2022 Jun) I joint organized "Be You in STEM" with the College of IST during the pride parade at State College, PA!
+- (2022 Jun) I joint organized "Be You in STEM" with the College of IST during the pride parade at State College, PA! 🌈
 - (2022 May) Nominated by the College of IST for 2022 Microsoft Ph.D Fellowship.
 
 </details>
