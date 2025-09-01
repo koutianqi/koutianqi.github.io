@@ -40,8 +40,8 @@ I received a BS in Economics from Harbin Institute of Technology and Monash Univ
 - (2025 May) I will attend the Privacy Law Scholar Conference at UCLA this year!
   - Fascinating discussions with [Rohan Grover](https://www.rohangrover.org) on his WIP on politics of expertise, and
   - [Amina Abdu](https://aminaxabdu.github.io) and [Abigail Jacob's](https://azjacobs.com) (now forthcoming) law review article on standard as metaphor!
-- (2025 May) Honored to be one of the finalists of 2025 Sloan Metascience and AI Postdoctoral Fellow, many thanks to the great [Richmond Wong](https://richmondywong.com).
-- (2024 Oct) Invited by the **Digital Life Initiative at CornellTech** to present my previous and ongoing work on the relationship between Machine Learning research practice reform and the social impact of ML-based technologies.
+- (2025 May) Honored to be one of the finalists of 2025 **Sloan Metascience and AI Postdoctoral Fellow**, many thanks to the great [Richmond Wong](https://richmondywong.com).
+- (2024 Oct) Invited by the **Digital Life Initiative at Cornell Tech** to present my previous and ongoing work on the relationship between Machine Learning research practice reform and the social impact of ML-based technologies.
 
 <details class="older-updates" markdown="1">
   <summary>Older updates</summary>
