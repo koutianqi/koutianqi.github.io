@@ -26,7 +26,7 @@ My research examines **the ethics and politics in the process of producing and d
 <details class="older-updates" markdown="1">
   <summary>In my previous life</summary>
 
-I received a BS in Economics from Harbin Institute of Technology and Monash University with high honors, and a MS in Computer Science from Fordham University with Dean's Fellowship where I developed a semi-supervised variant of Support Vector Machines. Afterward, I worked in industry for two years as a Machine Learning Engineer. These experiences shifted my earlier views of science, revealing it to be subjective, messy, and political, and motivating me to examine the epistemic and ethical implications of such nature.
+I received a BS in Economics from Harbin Institute of Technology and Monash University with high honors, and a MS in Computer Science from Fordham University with Dean's Fellowship where I developed a semi-supervised variant of Support Vector Machines. Afterwards, I worked in industry for two years as a Machine Learning Engineer. These experiences shifted my earlier views of science, revealing it to be subjective, messy, and political, and motivating me to examine the epistemic and ethical implications of such nature.
 
 </details>
 
