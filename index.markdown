@@ -21,7 +21,7 @@ I am a PhD Candidate at Penn State Information School advised by [Dr. Dana Calac
 
 ## Bio:
 
-My research examines **the ethics and politics in the process of producing and disseminating Machine Learning (ML) research and technology**, with a focus on epistemic and ethical accountability. Combining philosophical analysis with social scientific methods from Science and Technology Studies, I identify and address **communicative dysfunctions in these processes** - analyzing what goes wrong, why it matters, and how to fix it. My ultimate aim is to strengthen accountability mechanisms in the communicative dimension through practical tools, institutional reforms, technology policy, and regulatory frameworks. My work has appeared in venues spanning Philosophy of Science, Computer Science, and Human–Computer Interaction. Read more about my previous and ongoing projects [Here](https://koutianqi.github.io/pages/research/).
+My research examines **the ethics and politics in the process of producing and disseminating Machine Learning (ML) research and technology**, with a focus on epistemic and ethical accountability. Combining philosophical analysis with social scientific methods from Science and Technology Studies, I identify and address **communicative dysfunctions in these processes** - analyzing what goes wrong, why it matters, and how to fix it. My ultimate aim is to strengthen accountability mechanisms in the communicative dimension through practical tools, institutional reforms, technology policy, and regulatory frameworks. Read more about my previous and ongoing projects [Here](https://koutianqi.github.io/pages/research/).
 
 <details class="older-updates" markdown="1">
   <summary>In my previous life</summary>
