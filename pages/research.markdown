@@ -9,7 +9,7 @@
 
 
 ## Selected talks
-- Tianqi Kou. “Claim Replicability and the Responsibility Gap.” Invited Talk, Digital Life Initiative at Cornell Tech, Roosvelt Island, NYC, 2024.
-- Tianqi Kou. “The Function of Replication Studies in Machine Learning Research.” Keynote, Philosophy of Science Meets Machine Learning (PhilML), Tübingen, Germany, 2023.
+- **Tianqi Kou**. “Claim Replicability and the Responsibility Gap.” Invited Talk, Digital Life Initiative at Cornell Tech, Roosvelt Island, NYC, 2024.
+- **Tianqi Kou**. “The Function of Replication Studies in Machine Learning Research.” Keynote, Philosophy of Science Meets Machine Learning (PhilML), Tübingen, Germany, 2023.
 
 
