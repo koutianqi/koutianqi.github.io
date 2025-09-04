@@ -7,14 +7,14 @@ title: "Tianqi Kou"
   <div class="intro-copy" markdown="1">
 
     
-**Welcome!** I am a PhD Candidate at Penn State Information School, my research examines the **ethics** and **politics** in the communicative dimension of Machine Learning (ML) research and technology, with a focus on epistemic and ethical accountability. A Science and Technology Studies scholar by training, I use philosophical analysess and social scientific methods to study **communicative norms** in these processes -  what goes wrong, why it matters, and how to fix it. My ultimate aim is to strengthen accountability in the communicative dimension through governance solutions. Read more about my previous and ongoing projects [HERE](https://koutianqi.github.io/pages/research/).
+**Welcome!** I am a PhD Candidate at Penn State Information School advised by [Dr. Dana Calacci](https://www.dcalacci.net), my research examines the **ethics** and **politics** in the communicative dimension of Machine Learning (ML) research and technology, with a focus on epistemic and ethical accountability. A Science and Technology Studies scholar by training, I use philosophical analysess and social scientific methods to study **communicative norms** in these processes -  what goes wrong, why it matters, and how to fix it. My ultimate aim is to strengthen accountability in the communicative dimension through governance solutions.
 
   </div>
   <img class="headshot" src="{{ "/assets/img/headshot_crop.jpg" | relative_url }}" alt="Headshot" />
 </div>
 
 <div class="card" markdown="1">
-🌟 <ins>I am on academia job market seeking postdoc positions</ins> centering (1) philosophical and empirical analyses of responsible communication in Machine Learning, and (2) the policy and regulatory possibilities that follow. If you know a good fit, please reach out to me at, tfk [at] psu.edu.
+🌟 <ins>I am on academia job market seeking postdoc positions</ins> centering (1) philosophical and empirical analyses of responsible communication in Machine Learning, and (2) the policy and regulatory possibilities that follow. If you know a good fit, please reach out to me at, tfk [at] psu.edu. Details about my previous and ongoing projects - [HERE](https://koutianqi.github.io/pages/research/).
 </div>
 
 
@@ -24,13 +24,7 @@ title: "Tianqi Kou"
 
 I am a PhD Candidate at Penn State Information School advised by [Dr. Dana Calacci](https://www.dcalacci.net), an affiliate of [Center for Socially Responsible Artificial Intelligence (CSRAI)](https://csrai.psu.edu) at Penn State, and a Liberal Tech Scholar at critical tech pubilcation [LOGIC(S)](https://logicmag.io). I am also a visiting scholar at [Critical Technocultures Lab](https://www.crit-technocultures.com) at the School of Interactive Computing at Georgia Tech.
 
-<details class="older-updates" markdown="1">
-  <summary>In my previous life</summary>
-
 I received a BS in Economics from Harbin Institute of Technology and Monash University with high honors, and a MS in Computer Science from Fordham University with Dean's Fellowship where I developed a semi-supervised variant of Support Vector Machines. Afterwards, I worked in industry for two years as a Machine Learning Engineer. These experiences shifted my earlier views of science, revealing it to be subjective, messy, and political, and motivating me to examine the epistemic and ethical implications of such nature.
-
-</details>
-
 
 ## Recent news:
 
