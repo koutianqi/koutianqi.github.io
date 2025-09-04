@@ -5,9 +5,9 @@ title: "Tianqi Kou"
 
 <div class="intro-hero card">
   <div class="intro-copy" markdown="1">
-# Welcome!
 
-My research examines **the ethics and politics in the process of producing and disseminating Machine Learning (ML) research and technology**, with a focus on epistemic and ethical accountability. Combining philosophical analysis with social scientific methods from Science and Technology Studies, I study **communicative norms** in these processes -  what goes wrong, why it matters, and how to fix it. My ultimate aim is to strengthen accountability in the communicative dimension through governance solutions. Read more about my previous and ongoing projects [HERE](https://koutianqi.github.io/pages/research/).
+    
+**Welcome!** I am a PhD Candidate at Penn State Information School, my research examines **the ethics** and **politics** in the process of producing and disseminating Machine Learning (ML) research and technology, with a focus on epistemic and ethical accountability. Combining philosophical analysis with social scientific methods from Science and Technology Studies, I study **communicative norms** in these processes -  what goes wrong, why it matters, and how to fix it. My ultimate aim is to strengthen accountability in the communicative dimension through governance solutions. Read more about my previous and ongoing projects [HERE](https://koutianqi.github.io/pages/research/).
 
   </div>
   <img class="headshot" src="{{ "/assets/img/headshot_crop.jpg" | relative_url }}" alt="Headshot" />
