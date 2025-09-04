@@ -7,7 +7,8 @@ title: "Tianqi Kou"
   <div class="intro-copy" markdown="1">
 # Welcome!
 
-I am a PhD Candidate at Penn State Information School advised by [Dr. Dana Calacci](https://www.dcalacci.net), an affiliate of [Center for Socially Responsible Artificial Intelligence (CSRAI)](https://csrai.psu.edu) at Penn State, and a Liberal Tech Scholar at critical tech pubilcation [LOGIC(S)](https://logicmag.io). I am also a visiting scholar at [Critical Technocultures Lab](https://www.crit-technocultures.com) at the School of Interactive Computing at Georgia Tech.
+My research examines **the ethics and politics in the process of producing and disseminating Machine Learning (ML) research and technology**, with a focus on epistemic and ethical accountability. Combining philosophical analysis with social scientific methods from Science and Technology Studies, I study **communicative norms** in these processes -  what goes wrong, why it matters, and how to fix it. My ultimate aim is to strengthen accountability in the communicative dimension through governance solutions. Read more about my previous and ongoing projects [HERE](https://koutianqi.github.io/pages/research/).
+
   </div>
   <img class="headshot" src="{{ "/assets/img/headshot_crop.jpg" | relative_url }}" alt="Headshot" />
 </div>
@@ -21,7 +22,7 @@ I am a PhD Candidate at Penn State Information School advised by [Dr. Dana Calac
 
 ## Bio:
 
-My research examines **the ethics and politics in the process of producing and disseminating Machine Learning (ML) research and technology**, with a focus on epistemic and ethical accountability. Combining philosophical analysis with social scientific methods from Science and Technology Studies, I study **communicative norms** in these processes -  what goes wrong, why it matters, and how to fix it. My ultimate aim is to strengthen accountability in the communicative dimension through governance solutions. Read more about my previous and ongoing projects [HERE](https://koutianqi.github.io/pages/research/).
+I am a PhD Candidate at Penn State Information School advised by [Dr. Dana Calacci](https://www.dcalacci.net), an affiliate of [Center for Socially Responsible Artificial Intelligence (CSRAI)](https://csrai.psu.edu) at Penn State, and a Liberal Tech Scholar at critical tech pubilcation [LOGIC(S)](https://logicmag.io). I am also a visiting scholar at [Critical Technocultures Lab](https://www.crit-technocultures.com) at the School of Interactive Computing at Georgia Tech.
 
 <details class="older-updates" markdown="1">
   <summary>In my previous life</summary>
