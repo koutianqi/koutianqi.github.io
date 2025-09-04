@@ -7,7 +7,7 @@ title: "Tianqi Kou"
   <div class="intro-copy" markdown="1">
 
     
-**Welcome!** I am a PhD Candidate at Penn State Information School advised by [Dr. Dana Calacci](https://www.dcalacci.net), my research examines the **ethics** and **politics** in the communicative dimension of Machine Learning (ML) research and technology, with a focus on epistemic and ethical accountability. A Science and Technology Studies scholar by training, I use philosophical analysess and social scientific methods to study **communicative norms** in these processes -  what goes wrong, why it matters, and how to fix it. My ultimate aim is to strengthen accountability in the communicative dimension through governance solutions.
+**Welcome!** I am a PhD Candidate at Penn State Information School advised by [Dr. Dana Calacci](https://www.dcalacci.net), my research examines the **ethics** and **politics** in the communicative dimension of Machine Learning (ML) research and technology, with a focus on epistemic and ethical accountability. Trained in Science and Technology Studies, I use philosophical analysess and social scientific methods to study **communicative norms** around ML -  what goes wrong, why it matters, and how to fix it. My ultimate aim is to strengthen accountability in the communicative dimension through governance solutions.
 
   </div>
   <img class="headshot" src="{{ "/assets/img/headshot_crop.jpg" | relative_url }}" alt="Headshot" />
