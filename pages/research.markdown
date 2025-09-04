@@ -1,3 +1,5 @@
+_Note: In computer and information science, papers published in major conference proceedings are double-anonymously peer reviewed and recognized as equivalent research contributions to journal articles._
+
 ## Selected work in progress 
  - "Path to New Forms of Machine Learning Accountability: Identifying Gap and Challenges in Designing for the Implementation of Social Claim Replicability." (w/ Dana Calacci)
  - "What is the Hype? A Relational Conception: Demonstration Using Four Machine Learning Based Policing Tools." (w/ Dana Calacci, Nasser Eledroos, and David Gray Widder)
