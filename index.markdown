@@ -21,7 +21,7 @@ title: "Tianqi Kou"
 <div style="clear: both; height: 16px;"></div>
 
 <details class="bio-section" markdown="1">
-  <summary>+ Bio</summary>
+  <summary>Bio</summary>
 
 I am a PhD Candidate at Penn State Information School advised by [Dr. Dana Calacci](https://www.dcalacci.net), an affiliate of [Center for Socially Responsible Artificial Intelligence (CSRAI)](https://csrai.psu.edu) at Penn State, and a Liberal Tech Scholar at critical tech pubilcation [LOGIC(S)](https://logicmag.io). I am also a visiting scholar at [Critical Technocultures Lab](https://www.crit-technocultures.com) at the School of Interactive Computing at Georgia Tech.
 
