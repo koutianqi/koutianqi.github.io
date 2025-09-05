@@ -3,8 +3,6 @@ layout: page
 title: "Tianqi Kou"
 ---
 
-## CV
-
 {% if site.cv_available %}
 
 [Download CV [PDF]]({{ site.cv_pdf | relative_url }})
