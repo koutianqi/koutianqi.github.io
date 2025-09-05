@@ -1,0 +1,17 @@
+title: "Tianqi Kou"
+url: "https://koutianqi.info"
+baseurl: ""
+markdown: kramdown
+theme: null
+plugins: []
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+permalink: pretty
+
+# Site variables
+cv_available: false
+cv_pdf: "/assets/Tianqi_Kou_CV.pdf"
+
