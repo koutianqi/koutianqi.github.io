@@ -1,4 +1,0 @@
-## Teaching
-
-Content coming soon.
-
