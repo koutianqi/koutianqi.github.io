@@ -7,7 +7,7 @@ title: "Tianqi Kou"
   <div class="intro-copy" markdown="1">
 
     
-**Welcome!** I am a PhD Candidate at Penn State Information School advised by [Dr. Dana Calacci](https://www.dcalacci.net), I use philosophical analysis and social science methods to study the communication norms that govern AI research and technology—and how to align them with beneficial social values. My ultimate aim is to strengthen accountability in the communicative dimension through governance solutions.
+**Welcome!** I am a PhD Candidate at Penn State Information School advised by [Dr. Dana Calacci](https://www.dcalacci.net), I use philosophical analysis and social science methods to study the communication norms that govern AI research and technology—and how to align them with beneficial social values through novel accountability conceptions and mechanisms. My ultimate aim is to strengthen accountability in the communicative dimension through governance solutions.
 
   </div>
   <img class="headshot" src="{{ "/assets/img/headshot_crop.jpg" | relative_url }}" alt="Headshot" />
