@@ -31,7 +31,7 @@ I received a BS in Economics from Harbin Institute of Technology and Monash Univ
 <!--- </details> --->
 
 ## UPDATES:
-
+- I presented Work-in-Progress (w/Dana Calacci and Nasser Eledroos) on <A Relational Conception of AI Hype in AI-Based Tools in Policing Context> at Hype Studies Conference at Barcelona Spain, slides avaible upon chat.
 - (2025 Oct) I will present our paper (w/ [Dana Calacci](https://www.dcalacci.net) and [Cindy Lin](https://lincindy.com)) "Dead Zone of Accountability" at the 8th ACM/AAAI Conference Artificial Intelligence Ethics and Society in Madrid, Spain from 20th to 22nd.
 - (2025 Sep) I will present our work in progress (w/ [Dana Calacci](https://www.dcalacci.net) and [Nasser Eledroos](https://nasser.wiki)) at the inaugural [Hype Studies Conference](https://hypestudies.org) in Barcelona, Spain held at Universitat Oberta de Catalunya.
   - The conference has a mixed attendees such as researchers, designers, filmmakers, come say hi! I will present on the opening day of the 10th.
