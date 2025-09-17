@@ -10,7 +10,9 @@ title: "Tianqi Kou"
 **Welcome!** I am a PhD Candidate at Penn State Information School advised by [Dr. Dana Calacci](https://www.dcalacci.net). I study how implicit and explicit communication norms—or their absence—shape the validity of ML research argumentation and broader discourse about AI tools’ capabilities. My ultimate aim is to improve ML research rigor and social accountability of ML research & technologies by:
 
 (1) _**dissecting** how harms emerge from communication (such as AI hype)_;
+
 (2) _**developing** responsible communication norms to mitigate these harms_;
+
 (3) _**enforcing** such norms through academic, policy, or legal reforms_. 
 
   </div>
