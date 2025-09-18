@@ -28,7 +28,7 @@ _<span style="color:#424242;">Machine Learning research are deeply tied to downs
 </div>
 
 ### II. Technology Capabilities Communication
-_<span style="color: #424242;">From early rule-based algorithms to today’s large-scale architectures, Machine Learning has fueled AI tools across diverse domains. Yet premature adoptions have produced both cultural harms, like hype, and concrete harms, like inequity in policing and exploitation in marketing. I study how harms emerge from stakeholder communication about technological capabilities in concrete contexts-such as AI tools in policing-and develop strategies for mitigating them through responsible communication.</span>_
+_<span style="color: #424242;">From early rule-based algorithms to today’s large-scale architectures, Machine Learning has fueled AI tools across diverse domains. Yet premature adoptions have produced both cultural harms, like hype, and concrete harms, like inequity in policing and exploitation in marketing. I study how harms emerge from stakeholder communication about technological capabilities in concrete contexts—such as AI tools in policing—and develop strategies for mitigating them through responsible communication.</span>_
 
 
 <div class="pubs">
