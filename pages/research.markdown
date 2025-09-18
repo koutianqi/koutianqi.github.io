@@ -3,10 +3,10 @@ layout: page
 title: "Research"
 ---
 ### PAPERS & SELECTED WIPs
-_<span style="color: #6e6e6e;">Below are my past and on-going work as well as existing puzzles. Note: In computer and information science, papers published in major conference proceedings are double-anonymously peer reviewed and recognized as equivalent research contributions to journal articles.</span>_
+<span style="color: #6e6e6e;">Below are my past and on-going work as well as existing puzzles. Note: In computer and information science, papers published in major conference proceedings are double-anonymously peer reviewed and recognized as equivalent research contributions to journal articles.</span>
 
 ### I. Machine Learning Research Communication
-### _<span style="color: #6e6e6e;">Machine Learning scientists are inextricably connected to downstream impact but it remains a challenge to trace concrete paths of their “foundational” research to harms, a distinguishing feature from ML practitioners. How should Machine Learning scientists navigate the responsibilities of producing sound and/or usable knowledge and the responsibilities for the social impact that their research outputs undergird? To this end, I have developed normative arguments and conceptual tools for holding ML scientists accountable for social impact through research communication.</span>_
+_<span style="color: #6e6e6e;">Machine Learning scientists are inextricably connected to downstream impact but it remains a challenge to trace concrete paths of their “foundational” research to harms, a distinguishing feature from ML practitioners. How should Machine Learning scientists navigate the responsibilities of producing sound and/or usable knowledge and the responsibilities for the social impact that their research outputs undergird? To this end, I have developed normative arguments and conceptual tools for holding ML scientists accountable for social impact through research communication.</span>_
 
 
 [Dead Zone of Accountability](https://arxiv.org/pdf/2404.13131?)
