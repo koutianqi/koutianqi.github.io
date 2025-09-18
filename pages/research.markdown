@@ -28,7 +28,7 @@ _<span style="color:#424242;">Machine Learning scientists are deeply tied to dow
 </div>
 
 ### II. Technology Capabilities Communication
-_<span style="color: #424242;">Machine Learning in its various forms (from early rule-based algorithms to now large-scale architectures) have galvanized the development of AI tools for a wide variety of application domains. However, premature adoptions of these tools in have bred cultural harms (such as hype) and concrete harms (such as inequity and exploitation). To this end, I study how these harms arise from how different stakeholder groups communicate about certain technologies’ capabilities and how to mitigate these harms through responsible communication.</span>_
+_<span style="color: #424242;">From early rule-based algorithms to today’s large-scale architectures, Machine Learning has fueled AI tools across diverse domains. Yet premature adoptions have produced both cultural harms, like hype, and concrete harms, like inequity in policing and exploitation in marketing. I study how harms emerge from stakeholder communication about technological capabilities in concrete contexts (such as AI tools in policing) and develop strategies for mitigating them through responsible communication.</span>_
 
 
 <div class="pubs">
