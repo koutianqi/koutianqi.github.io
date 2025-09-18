@@ -12,16 +12,13 @@ _Below are my past and on-going work as well as existing puzzles. Note: In compu
 
 
 [Dead Zone of Accountability](https://arxiv.org/pdf/2404.13131?)
-
 w/ Dana Calacci and Cindy Lin  
 _Proceedings of the AAAI/ACM Conference on Artificial Intelligence, Ethics and Society (AIES)_, 2025
-
 <details class="paper-abstract">
-  <summary>Abstract</summary>
+  <summary>Abstract↓</summary>
   <p>Many Machine Learning research studies use language that describes potential social benefits or technical affordances of new methods and technologies. Such language, which we call “social claims”, can help garner substantial resources and influence for those involved in ML research and technology production. However, there exists a gap between social claims and reality (the claim–reality gap): ML methods often fail to deliver the claimed functionality or social impacts. This paper investigates the claim–reality gap and makes a normative argument for developing accountability mechanisms for it. In making the argument, we make three contributions. First, we show why the symptom—absence of social claim accountability—is problematic. Second, we coin dead zone of accountability—a lens that scholars and practitioners can use to identify opportunities for new forms of accountability. We apply this lens to the claim–reality gap and provide a diagnosis by identifying cognitive and structural resistances to accountability in the claim–reality gap. Finally, we offer a prescription—two potential collaborative research agendas that can help create the conditions for social claim accountability.</p>
 </details>
-
-**TL;DR:** This paper introduces the concepts of the claim–reality gap and the dead zone of accountability to diagnose why social claims in ML research resist scrutiny, and proposes strategies to articulate and defend such claims as a way of creating accountability upstream, before harms manifest.
+_TL;DR: This paper introduces the concepts of the claim–reality gap and the dead zone of accountability to diagnose why social claims in ML research resist scrutiny, and proposes strategies to articulate and defend such claims as a way of creating accountability upstream, before harms manifest._
 
 
 [How Claim Replicability Can Help Bridge the Responsibility Gap](https://dl.acm.org/doi/10.1145/3630106.3658951)
