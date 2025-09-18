@@ -11,7 +11,7 @@ _<span style="color:#424242;">Machine Learning scientists are deeply tied to dow
 <div class="pubs">
 {% include paper.html
   title="Dead Zone of Accountability"
-  title_url="https://arxiv.org/pdf/2404.13131?"
+  title_url="https://www.arxiv.org/pdf/2508.08739"
   authors="(W/Dana Calacci and Cindy Lin)"
   venue="<em>Proceedings of the AAAI/ACM Conference on Artificial Intelligence, Ethics and Society (AIES)</em>, 2025"
   tldr="[TL;DR]: This paper introduces the concepts of the <em>claim–reality gap</em> and the <em>dead zone of accountability</em> to diagnose why social claims in ML research resist scrutiny, and proposes strategies to articulate and defend such claims as a way of creating accountability upstream, before harms manifest."
