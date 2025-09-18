@@ -42,7 +42,7 @@ _<span style="color: #424242;">From early rule-based algorithms to today’s lar
 </div>
 
 ### III. Enforcing Responsible Communication
-_<span style="color: #424242;">A core issue to the scholarship on socially responsible computing is translating conceptual understandings & tools into practical solutions. A key strand of my future research is translating my theorization into practical tools, policies, and legal frameworks.</span>_
+_<span style="color: #424242;">A core issue in the scholarship on socially responsible computing is translating conceptual understandings & tools into practical solutions. A key strand of my future research is translating my theorization into practical tools, policies, and legal frameworks.</span>_
 
 
 <div class="pubs">
