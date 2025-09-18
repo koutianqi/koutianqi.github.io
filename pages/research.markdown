@@ -46,5 +46,10 @@ _<span style="color: #424242;">A core issue to the scholarship on socially respo
 
 
 <div class="pubs">
-
+  {% include paper.html
+  title="Implementing Social Claim Accountability in Machine Learning: Challenges and Opportunities"
+  authors="(W/Dana Calacci)"
+  tldr="Work in Progress"
+  abstract="[working abstract] In machine learning (ML) research, broad social claims about potential societal benefits or harms are often made without clear articulation of scope, supporting evidence, or context, limiting both transparency and foresight for application harms. This paper proposes a path toward new forms of ML accountability by focusing on the concept of social claim replicability: the ability to systematically document, organize, and evaluate the evidence supporting social claims. First, we developed a social claim typology with a list of commonly cited supporting evidence to guide the articulation and substantiation of claims. Second, we proposed evidence diagram for systematizing supporting evidence, thereby improving clarity and rigor of research communication. By integrating these approaches, we aim to create conditions for establishing social claim accountability in ML research."
+%}
 </div>
