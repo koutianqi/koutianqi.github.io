@@ -36,7 +36,7 @@ _<span style="color: #424242;">Machine Learning in its various forms (from early
 </div>
 
 ### III. Enforcing Responsible Communication
-_<span style="color: #424242;">A core issue to the scholarship on socially responsible computing is translating conceptual understandings & tools into practical solutions. A key strand of my future research is translating my theorization into practical tools, policies, and legal frameworks. To this end, I have several work-in-progress.</span>_
+_<span style="color: #424242;">A core issue to the scholarship on socially responsible computing is translating conceptual understandings & tools into practical solutions. A key strand of my future research is translating my theorization into practical tools, policies, and legal frameworks.</span>_
 
 
 <div class="pubs">
