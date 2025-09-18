@@ -21,11 +21,9 @@ _TL;DR: This paper introduces the concepts of the claim–reality gap and the de
 
 
 [How Claim Replicability Can Help Bridge the Responsibility Gap](https://dl.acm.org/doi/10.1145/3630106.3658951)
-
 _Proceedings of the ACM Conference on Fairness, Accountability, and Transparency (FAccT)_, 2024
-
 <details class="paper-abstract">
-  <summary>Abstract</summary>
+  <summary>Abstract↓</summary>
   <p>Two goals—improving replicability and accountability of Machine Learning research respectively—have accrued much attention from the AI ethics and the Machine Learning community. Despite sharing the measures of improving transparency, the two goals are discussed in different registers: replicability registers with scientific reasoning whereas accountability registers with ethical reasoning. Given the existing challenge of the responsibility gap—holding Machine Learning scientists accountable for Machine Learning harms due to them being far from sites of application—this paper posits that reconceptualizing replicability can help bridge the gap. Through a shift from model performance replicability to claim replicability, Machine Learning scientists can be held accountable for producing non-replicable claims that are prone to eliciting harm due to misuse and misinterpretation. In this paper, I make the following contributions. First, I define and distinguish two forms of replicability for ML research that can aid constructive conversations around replicability. Second, I formulate an argument for claim-replicability’s advantage over model performance replicability in justifying assigning accountability to Machine Learning scientists for producing non-replicable claims and show how it enacts a sense of responsibility that is actionable. In addition, I characterize the implementation of claim replicability as more of a social project than a technical one by discussing its competing epistemological principles and practical implications on Circulating Reference, Interpretative Labor, and research communication.</p>
 </details>
 
