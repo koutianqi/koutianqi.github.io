@@ -10,7 +10,9 @@ _<span style="color: #6e6e6e;">Machine Learning scientists are inextricably conn
 
 
 [Dead Zone of Accountability](https://arxiv.org/pdf/2404.13131?)
-<span style="color: #6e6e6e;">W/Dana Calacci and Cindy Lin</span>
+
+<span style="color: #6e6e6e;">(W/Dana Calacci and Cindy Lin)</span>
+
 _<span style="color: #6e6e6e;">Proceedings of the AAAI/ACM Conference on Artificial Intelligence, Ethics and Society (AIES)</span>_, <span style="color: #6e6e6e;">2025</span>
 <details class="paper-abstract">
   <summary>Abstract↓</summary>
