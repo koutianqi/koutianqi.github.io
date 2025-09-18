@@ -6,7 +6,7 @@ title: "Research"
 <span style="color:#424242;">Below are my past and on-going work as well as existing puzzles. Note: In computer and information science, papers published in major conference proceedings are double-anonymously peer reviewed and recognized as equivalent research contributions to journal articles.</span>
 
 ### I. Machine Learning Research Communication
-_<span style="color:#424242;">Machine Learning scientists are inextricably connected to downstream impact but it remains a challenge to trace concrete paths of their “foundational” research to harms, a distinguishing feature from ML practitioners. How should Machine Learning scientists navigate the responsibilities of producing sound and/or usable knowledge and the responsibilities for the social impact that their research outputs undergird? To this end, I have developed normative arguments and conceptual tools for holding ML scientists accountable for social impact through research communication.</span>_
+_<span style="color:#424242;">Machine Learning scientists are deeply tied to downstream impacts, yet their “foundational” research is often hard to link directly to harms, unlike the work of practitioners. This raises the question of how they should balance producing general knowledge with taking responsibility for the social effects their research enables. I address this by developing normative arguments and conceptual tools for accountability through research communication.</span>_
 
 <div class="pubs">
 {% include paper.html
