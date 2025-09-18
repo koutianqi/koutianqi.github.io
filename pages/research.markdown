@@ -2,7 +2,7 @@
 layout: page
 title: "Research"
 ---
-### PAPERS AND SELECTED WIPs
+### PAPERS & SELECTED WIPs
 _Below are my past and on-going work as well as existing puzzles. Note: In computer and information science, papers published in major conference proceedings are double-anonymously peer reviewed and recognized as equivalent research contributions to journal articles._
 
 ### I. Machine Learning Research Communication
