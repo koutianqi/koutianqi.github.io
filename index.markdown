@@ -33,9 +33,11 @@ Drawing on philosophical and qualitative methods, my ultimate aim is to improve 
 
 ## **BIO**:
 <div class="pubs" markdown="1">
-I am a PhD Candidate at Penn State Information School advised by [Dr. Dana Calacci](https://www.dcalacci.net), an affiliate of [Center for Socially Responsible Artificial Intelligence (CSRAI)](https://csrai.psu.edu) at Penn State, and a Liberal Tech Scholar at critical tech pubilcation [LOGIC(S)](https://logicmag.io). I am also a visiting scholar at [Critical Technocultures Lab](https://www.crit-technocultures.com) at the School of Interactive Computing at Georgia Tech.
+My doctoral training is in Philosophy of Science and Sciecne and Technology Studies. I am an affiliate of [Center for Socially Responsible Artificial Intelligence (CSRAI)](https://csrai.psu.edu) at Penn State, and a Liberal Tech Scholar at critical tech pubilcation [LOGIC(S)](https://logicmag.io). I am also a visiting scholar at [Critical Technocultures Lab](https://www.crit-technocultures.com) at the School of Interactive Computing at Georgia Tech.
 
-I received a BS in Economics from Harbin Institute of Technology and Monash University with high honors, and a MS in Computer Science from Fordham University with Dean's Fellowship where I developed a semi-supervised variant of Support Vector Machines. Afterwards, I worked in industry for two years as a Machine Learning Engineer. These experiences shifted my earlier views of science, revealing it to be subjective, messy, and political, and motivating me to examine the epistemic and ethical implications of such nature.
+Before Penn State, I received a BS in Economics from Harbin Institute of Technology and Monash University with high honors, and a MS in Computer Science from Fordham University with Dean's Fellowship where I developed a semi-supervised variant of Support Vector Machines. Afterwards, I worked in industry for two years as a Machine Learning Engineer. These experiences shifted my earlier views of science, revealing it to be subjective, messy, and political, and motivating me to examine the epistemic and ethical implications of such nature.
+
+test
 </div>
 
 <!--- </details> --->
