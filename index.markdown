@@ -39,7 +39,6 @@ I received a BS in Economics from Harbin Institute of Technology and Monash Univ
 </div>
 
 ## **UPDATES**:
-<div class="pubs updates" markdown="1">
 - I presented Work-in-Progress (w/Dana Calacci, Nasser Eledroos, David Gray Widder, Dasha Pruss) titled "A Relational Conception of AI Hype in AI-Based Tools in Policing Context" at [Hype Studies Conference](https://hypestudies.org/conference) in Barcelona, Spain, slides avaible upon chat.
 - (2025 Oct) I will present our paper (w/ [Dana Calacci](https://www.dcalacci.net) and [Cindy Lin](https://lincindy.com)) "Dead Zone of Accountability" at the 8th ACM/AAAI Conference Artificial Intelligence Ethics and Society in Madrid, Spain from 20th to 22nd.
 - (2025 Sep) I will present our work in progress (w/ [Dana Calacci](https://www.dcalacci.net), [Nasser Eledroos](https://nasser.wiki), [David Gray Widder](https://davidwidder.me), [Dasha Pruss](https://www.dashapruss.com)) at the inaugural [Hype Studies Conference](https://hypestudies.org) in Barcelona, Spain held at Universitat Oberta de Catalunya. The conference has a mixed attendees such as researchers, designers, filmmakers, come say hi! I will present on the opening day of the 10th.
@@ -54,9 +53,6 @@ I received a BS in Economics from Harbin Institute of Technology and Monash Univ
 - (2024 Apr) Received ACM FAccT'24 Travel Award.
 - (2024 Mar) Received Dean's Travel Award.
 - (2024 Jan) Joined [LOGIC(S)](https://logicmag.io) as a Liberatory Tech Scholar.
-<details class="older-updates">
-<summary>older updates</summary>
-<div markdown="1">
 - (2023 Oct) Poster presentation on contradictions between ML replicability and feminist epistemic values at ICDS 2022 Symposium.
 - (2023 Sep) I am presenting my work "Function of Replicability in Machine Learning Research" for PhilML 2023 at the University of Tübingen, at Tübingen, Germany.
 - (2023 May) Paper abstract accepted by PhilML2023: Philosophy of Science Meets Machine Learning Conference.
@@ -64,7 +60,4 @@ I received a BS in Economics from Harbin Institute of Technology and Monash Univ
 - (2022 Oct) Poster on Replicability in Machine Learning Research admitted to ICDS 2022 Symposium.
 - (2022 Jun) I joint organized "Be You in STEM" with the College of IST during the pride parade at State College, PA! 🌈
 - (2022 May) Nominated by the College of IST for 2022 Microsoft Ph.D Fellowship.
-</div>
-</details>
-</div>
 
