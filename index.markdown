@@ -7,9 +7,7 @@ title: "Tianqi Kou"
   <div class="intro-copy" markdown="1">
 
     
-**Welcome!** I am a PhD Candidate at Penn State Information School advised by [Dr. Dana Calacci](https://www.dcalacci.net). I study how implicit and explicit communication norms—or their absence—shape the validity of ML research argumentation and broader discourse about AI tools’ capabilities. Drawing on philosophical and qualitative methods, my ultimate aim is to improve ML **research rigor** and **social accountability** of ML research & technologies by:
-
-(1) **dissecting** how harms (e.g. AI hype) emerge from communication; (2) **developing** responsible communication norms to mitigate these harms; (3) **enforcing** such norms through academic, policy, or legal reforms. 
+**Welcome!** I am a PhD Candidate at Penn State Information School advised by [Dr. Dana Calacci](https://www.dcalacci.net). I study how implicit and explicit communication norms—or their absence—shape the validity of ML research argumentation and broader discourse about AI tools’ capabilities. Drawing on philosophical and qualitative methods, my ultimate aim is to improve ML **research rigor** and **social accountability** of ML research & technologies by: (1) **dissecting** how harms (e.g. AI hype) emerge from communication; (2) **developing** responsible communication norms to mitigate these harms; (3) **enforcing** such norms through academic, policy, or legal reforms. 
 
   </div>
   <img class="headshot" src="{{ "/assets/img/headshot_crop.jpg" | relative_url }}" alt="Headshot" />
