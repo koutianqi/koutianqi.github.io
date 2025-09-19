@@ -6,7 +6,7 @@ title: "Research"
 Below are my past and on-going work as well as existing puzzles. Note: In computer and information science, papers published in major conference proceedings are double-anonymously peer reviewed and recognized as equivalent research contributions to journal articles. For multi-authored work, * indicates lead author.
 
 ### I. Machine Learning Research Communication
-_<span style="color:#424242;">Machine Learning research are deeply tied to downstream impacts, yet their “foundational” research is often hard to link directly to harms. This raises the question of how they should balance producing general knowledge with taking responsibility for the social effects their research enables. I address this by developing normative arguments and conceptual tools for accountability through research communication.</span>_
+_Machine Learning research are deeply tied to downstream impacts, yet their “foundational” research is often hard to link directly to harms. This raises the question of how they should balance producing general knowledge with taking responsibility for the social effects their research enables. I address this by developing normative arguments and conceptual tools for accountability through research communication._
 
 <div class="pubs">
 {% include paper.html
@@ -29,7 +29,7 @@ _<span style="color:#424242;">Machine Learning research are deeply tied to downs
 </div>
 
 ### II. Technology Capabilities Communication
-_<span style="color: #424242;">From early rule-based algorithms to today’s large-scale architectures, Machine Learning has fueled AI tools across diverse domains. Yet premature adoptions have produced both cultural harms, like hype, and concrete harms, like inequity in policing and exploitation in marketing. I study how harms emerge from stakeholder communication about technological capabilities in concrete contexts—such as AI tools in policing—and develop strategies for mitigating them through responsible communication.</span>_
+_From early rule-based algorithms to today’s large-scale architectures, Machine Learning has fueled AI tools across diverse domains. Yet premature adoptions have produced both cultural harms, like hype, and concrete harms, like inequity in policing and exploitation in marketing. I study how harms emerge from stakeholder communication about technological capabilities in concrete contexts—such as AI tools in policing—and develop strategies for mitigating them through responsible communication._
 
 
 <div class="pubs">
@@ -42,7 +42,7 @@ _<span style="color: #424242;">From early rule-based algorithms to today’s lar
 </div>
 
 ### III. Enforcing Responsible Communication
-_<span style="color: #424242;">A core issue in the scholarship on socially responsible computing is translating conceptual understandings & tools into practical solutions. A key strand of my future research is translating my theorization into practical tools, policies, and legal frameworks.</span>_
+_A core issue in the scholarship on socially responsible computing is translating conceptual understandings & tools into practical solutions. A key strand of my future research is translating my theorization into practical tools, policies, and legal frameworks._
 
 
 <div class="pubs">
