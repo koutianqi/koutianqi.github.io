@@ -9,7 +9,7 @@ title: "Tianqi Kou"
   <div class="intro-copy pubs" markdown="1">
 
     
-I am a PhD Candidate at Penn State Information School advised by [Dr. Dana Calacci](https://www.dcalacci.net).
+**I am a PhD Candidate at Penn State Information School advised by [Dr. Dana Calacci](https://www.dcalacci.net).**
 
 **I study how implicit and explicit communication norms—or their absence—shape the validity of ML research argumentation and broader discourse about AI tools’ capabilities.**
 
