@@ -38,7 +38,7 @@ _From early rule-based algorithms to today’s large-scale architectures, Machin
   title="What is the Hype: A Relational Conception of Hype in AI-based Tools in Policing Context"
   authors="Tianqi Kou*, Dana Calacci, Nasser Eledroos, David Gray Widder, Dasha Pruss"
   venue="Abstract/Work-in-Progress Accepted and Presented at Hype Studies Conference"
-  tldr="The paper develops a conception of hype that encompasses a wide range of communities around AI-based policing tools and identifies communicative practices to curtail harmful hype."
+  tldr="[TL;DR]: The paper develops a conception of hype that encompasses a wide range of communities around AI-based policing tools and identifies communicative practices to curtail harmful hype."
   abstract="[working abstract] This study is motivated by two concerns. First, while discussions of AI hype abound across academia, industry, and civic research community, definitions of hype remain fragmented. Second, the deployment of Machine Learning–based tools in policing has drawn critical attention for issues such as privacy, inequity, lack of accountability. Through document analysis of communication artifacts across multiple communities for four policing tools, this study makes three contributions. First, it offers a novel definition of hype that foregrounds the relational dynamics of technological discourse. Second, it demonstrates how this relational conception of hype provides an analytic frame for diagnosing shortcomings in the communicative dimensions of ML-based policing tools. Finally, it identifies three problematic discursive practices in the communication of AI-based policing tools and suggests how rectifying them can advance responsible communication."
 %}
 </div>
@@ -52,7 +52,7 @@ _A core issue in the scholarship on socially responsible computing is translatin
   title="Implementing Social Claim Accountability in Machine Learning: Challenges and Opportunities"
   authors="Tianqi Kou*, Dana Calacci"
   venue="Work in Progress"
-  tldr="This paper explores ways to incorporate social claims into machine learning core methodology."
+  tldr="[TL;DR]: This paper explores ways to incorporate social claims into machine learning core methodology."
   abstract="[working abstract] In machine learning (ML) research, broad social claims about potential societal benefits or harms are often made without clear articulation of scope, supporting evidence, or context, limiting both transparency and foresight for application harms. This paper proposes a path toward new forms of ML accountability by focusing on the concept of social claim replicability: the ability to systematically document, organize, and evaluate the evidence supporting social claims. First, we developed a social claim typology with a list of commonly cited supporting evidence to guide the articulation and substantiation of claims. Second, we proposed evidence diagram for systematizing supporting evidence, thereby improving clarity and rigor of research communication. By integrating these approaches, we aim to create conditions for establishing social claim accountability in ML research."
 %}
 </div>
