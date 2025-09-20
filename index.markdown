@@ -11,7 +11,7 @@ title: "Tianqi Kou"
     
 **I study how the social impact of Machine Learning research and Machine Learning technology should be communicated.**
 
-**Drawing on philosophical and qualitative methods, I (1) develop normative arguments for enforcing communication accountability in research and technology, (2) diagnose how existing communication practices enable harms in concrete contexts—such as AI hype in policing—by analyzing stakeholder discourse, and (3) propose methodological and institutional reforms to create conditions for more responsible communication norms in research and technology production.**
+Drawing on philosophical and qualitative methods, I **(1) develop** normative arguments for enforcing communication accountability in research and technology, **(2) diagnose** how existing communication practices enable harms in concrete contexts—such as AI hype in policing—by analyzing stakeholder discourse, and **(3) propose** methodological and institutional reforms to create conditions for more responsible communication norms in research and technology production.
 
   </div>
   <img class="headshot" src="{{ "/assets/img/headshot_crop.jpg" | relative_url }}" alt="Headshot" />
