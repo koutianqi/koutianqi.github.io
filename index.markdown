@@ -9,7 +9,7 @@ title: "Tianqi Kou"
   <h2 class="mobile-only"><strong>ABOUT ME</strong>:</h2>
 
     
-**I study evidence-based communication of the social impact of Machine Learning research and technology to counter hype and harmful applications.**
+**I develop evidence-based communication of the social impact of Machine Learning research and technology to counter hype and harmful applications.**
 
 Drawing on philosophical and qualitative methods, I (1) develop normative arguments for enforcing communication accountability in research and technology, (2) diagnose how existing communication practices enable harms in concrete contexts—such as AI hype in policing—by analyzing stakeholder discourse, and (3) propose methodological and institutional reforms to create conditions for more responsible communication norms in research and technology production.
 
