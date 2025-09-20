@@ -1,4 +1,4 @@
-# Tianqi Kou — Static Site
+# Tianqi Kou
 
 first time using html to build stuff, exciting
 
@@ -12,7 +12,10 @@ i won't tell u but i guess i can't really hide it
 
 - Design inspo from five academics' websites that I liked.
 - The design uses a lightweight, responsive layout with no build step.
-- No don't fork my repo, i gate keep
+
+```
+No don't fork my repo, i gatekeep
+```
 
 ## License
 
