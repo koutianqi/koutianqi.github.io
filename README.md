@@ -5,20 +5,14 @@ first time using html to build stuff, exciting
 ## Structure
 
 ```
-_layout_/
-  default
-  
-assets/
-  css/styles.css
-  js/main.js
-  img/
-index.html
+i won't tell u but i guess i can't really hide it
 ```
 
 ## Notes
 
-- Design inspo from various academics' websites that I liked.
+- Design inspo from five academics' websites that I liked.
 - The design uses a lightweight, responsive layout with no build step.
+- No don't fork my repo, i gate keep
 
 ## License
 
