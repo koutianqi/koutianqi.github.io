@@ -9,9 +9,7 @@ title: "Tianqi Kou"
   <h2 class="mobile-only"><strong>ABOUT ME</strong></h2>
 
     
-**I develop evidence-based communication of the social impact of Machine Learning research and technology to counter hype and harmful applications.**
-
-Drawing on philosophical and qualitative methods, I (1) develop normative arguments for enforcing communication accountability in research and technology, (2) diagnose how existing communication practices enable harms in concrete contexts—such as AI hype in policing—by analyzing stakeholder discourse, and (3) propose methodological and institutional reforms to create conditions for more responsible communication norms in research and technology production.
+**I develop evidence-based communication of the social impact of Machine Learning research and technology to counter hype and harmful applications.** Drawing on philosophical and qualitative methods, I (1) develop normative arguments for enforcing communication accountability in research and technology, (2) diagnose how existing communication practices enable harms in concrete contexts—such as AI hype in policing—by analyzing stakeholder discourse, and (3) propose methodological and institutional reforms to create conditions for more responsible communication norms in research and technology production.
 
   </div>
   <img class="headshot" src="{{ "/assets/img/headshot_crop.jpg" | relative_url }}" alt="Headshot" />
@@ -29,11 +27,9 @@ Drawing on philosophical and qualitative methods, I (1) develop normative argume
   <!--- <summary>Bio</summary> --->
 <div class="bio-block pubs" markdown="1">
 
-## **BIO**:
+## **BIO**
 <div markdown="1">
-I am a PhD Candidate at Penn State Information School advised by [Dr. Dana Calacci](https://www.dcalacci.net). My doctoral training is in Philosophy of Science and Sciecne and Technology Studies. I am an affiliate of [Center for Socially Responsible Artificial Intelligence (CSRAI)](https://csrai.psu.edu) at Penn State, and a Liberal Tech Scholar at critical tech pubilcation [LOGIC(S)](https://logicmag.io), and a visiting scholar at [Critical Technocultures Lab](https://www.crit-technocultures.com) at the School of Interactive Computing at Georgia Tech.
-
-Before Penn State, I received a BS from Harbin Institute of Technology and Monash University with high honors, and a MS from Fordham University with Dean's Fellowship where I developed a semi-supervised variant of Support Vector Machines. Afterwards, I worked in industry for two years as a Machine Learning Engineer. These experiences shifted my earlier views of science, revealing it to be subjective, messy, and political, and motivating me to examine the epistemic and ethical implications of such nature.
+I am a PhD Candidate at Penn State Information School advised by [Dr. Dana Calacci](https://www.dcalacci.net). My doctoral training is in Philosophy of Science and Sciecne and Technology Studies. I am an affiliate of [Center for Socially Responsible Artificial Intelligence (CSRAI)](https://csrai.psu.edu) at Penn State, and a Liberal Tech Scholar at critical tech pubilcation [LOGIC(S)](https://logicmag.io), and a visiting scholar at [Critical Technocultures Lab](https://www.crit-technocultures.com) at the School of Interactive Computing at Georgia Tech. Before Penn State, I received a BS from Harbin Institute of Technology and Monash University with high honors, and a MS from Fordham University with Dean's Fellowship where I developed a semi-supervised variant of Support Vector Machines. Afterwards, I worked in industry for two years as a Machine Learning Engineer. These experiences shifted my earlier views of science, revealing it to be subjective, messy, and political, and motivating me to examine the epistemic and ethical implications of such nature.
 </div>
 
 <!--- </details> --->
@@ -44,7 +40,7 @@ Before Penn State, I received a BS from Harbin Institute of Technology and Monas
 ## **UPDATES**
 <div class="updates" markdown="1">
 
-- I presented Work-in-Progress (W/ [Dana Calacci](https://www.dcalacci.net), [Nasser Eledroos](https://nasser.wiki), [David Gray Widder](https://davidwidder.me), [Dasha Pruss](https://www.dashapruss.com)) titled "A Relational Conception of AI Hype in AI-Based Tools in Policing Context" that was accepted to the [Hype Studies Conference](https://hypestudies.org/conference) in Barcelona, Spain, slides avaible upon chat.
+- I presented Work-in-Progress (w/ [Dana Calacci](https://www.dcalacci.net), [Nasser Eledroos](https://nasser.wiki), [David Gray Widder](https://davidwidder.me), [Dasha Pruss](https://www.dashapruss.com)) titled "A Relational Conception of AI Hype in AI-Based Tools in Policing Context" that was accepted to the [Hype Studies Conference](https://hypestudies.org/conference) in Barcelona, Spain, slides avaible upon chat.
 - (2025 Jul) Lead author paper (w/ [Dana Calacci](https://www.dcalacci.net) and [Cindy Lin](https://lincindy.com)) has been accepted to 2025 proceedings of ACM/AAAI AI Ethics and Society which will be held in Madrid, Spain from Oct 20th to 22nd. This paper delineats the epistemic conditions of ML that resist meaningful accountability for the communicative dimension of ML research. [Preprint](https://arxiv.org/abs/2508.08739) or [TL;DR](https://www.linkedin.com/posts/koutianqi_dead-zone-of-accountability-why-social-claims-activity-7361214088003108864-3aJR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACPLLPcBeEM19ytgUOpXQQb6x_SjOdrvjtQ).
 - (2025 May) I will attend the Privacy Law Scholar Conference at UCLA this year! Fascinating discussions with [Rohan Grover](https://www.rohangrover.org) on his WIP on politics of expertise, and [Amina Abdu](https://aminaxabdu.github.io) and [Abigail Jacob's](https://azjacobs.com) (now forthcoming) law review article on standard as metaphor!
 - (2025 May) Honored to be one of the finalists of 2025 **Sloan Metascience and AI Postdoctoral Fellow**, many thanks to [Richmond Wong](https://richmondywong.com).
