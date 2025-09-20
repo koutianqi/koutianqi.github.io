@@ -18,7 +18,7 @@ Drawing on philosophical and qualitative methods, I (1) develop normative argume
 </div>
 
 <div class="job-market-box" markdown="1">
-🌟 <ins>I am on the job market seeking postdoc positions</ins> centering (1) philosophical and empirical analyses of responsible communication in Machine Learning, and (2) the policy and regulatory possibilities that follow. If you know a good fit, please reach out to me at, tfk@psu.edu. Details about my previous and ongoing projects - [HERE](https://koutianqi.github.io/pages/research/).
+🌟 I am on the job market seeking postdoc positions centering (1) philosophical and empirical analyses of responsible communication in Machine Learning, and (2) the policy and regulatory possibilities that follow. If you know a good fit, please reach out to me at, tfk@psu.edu. Details about my previous and ongoing projects - [HERE](https://koutianqi.github.io/pages/research/).
 </div>
 
 <!--- and --->
