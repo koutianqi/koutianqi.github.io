@@ -37,7 +37,7 @@ _From early rule-based algorithms to today’s large-scale architectures, Machin
 {% include paper.html
   title="What is the Hype: A Relational Conception of Hype in AI-based Tools in Policing Context"
   authors="Tianqi Kou*, Dana Calacci, Nasser Eledroos, David Gray Widder, Dasha Pruss"
-  venue="Abstract/Work-in-Progress Accepted and Presented at Hype Studies Conference"
+  venue="Work in Progress; extended abstract accepted and presented at Hype Studies Conference"
   tldr="[TL;DR]: The paper develops a conception of hype that encompasses a wide range of communities around AI-based policing tools and identifies communicative practices to curtail harmful hype."
   abstract="[working abstract] This study is motivated by two concerns. First, while discussions of AI hype abound across academia, industry, and civic research community, definitions of hype remain fragmented. Second, the deployment of Machine Learning–based tools in policing has drawn critical attention for issues such as privacy, inequity, lack of accountability. Through document analysis of communication artifacts across multiple communities for four policing tools, this study makes three contributions. First, it offers a novel definition of hype that foregrounds the relational dynamics of technological discourse. Second, it demonstrates how this relational conception of hype provides an analytic frame for diagnosing shortcomings in the communicative dimensions of ML-based policing tools. Finally, it identifies three problematic discursive practices in the communication of AI-based policing tools and suggests how rectifying them can advance responsible communication."
 %}
