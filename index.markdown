@@ -9,7 +9,7 @@ title: "Tianqi Kou"
   <h2 class="mobile-only"><strong>ABOUT ME</strong></h2>
 
     
-**I study the construction and mitigation of AI hype within the communicative dimension of the machine learning ecosystem.** Using philosophical and qualitative methods, I (1) analyze how hype emerges as claims about contributions and capabilities circulate through interconnected communities and (2) develop norms of responsible communication to counter it. Currently, I situate this inquiry in the context of carceral AI. Look [here](https://koutianqi.info/pages/research/) for details of my research.
+**I study the construction and mitigation of AI hype within the communicative dimension of the machine learning ecosystem.** Using philosophical and qualitative methods, I (1) analyze how hype emerges as claims about contributions and capabilities circulate through interconnected communities and (2) develop norms of responsible communication to counter it. Currently, I situate this inquiry in the context of carceral AI. Details of my research can be found [here](https://koutianqi.info/pages/research/).
 
 
   </div>
