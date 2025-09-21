@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tianqi Kou | Tianqi studies AI hype and communication norms"
+title: "Tianqi Kou | Tianqi studies AI hype and communication norms."
 description: "I study the construction and mitigation of AI hype within the communicative dimension of the machine learning ecosystem."
 ---
 
