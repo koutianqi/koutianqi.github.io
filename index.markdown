@@ -36,11 +36,11 @@ description: "I study the construction and mitigation of AI hype within the comm
 - (2025 May) Honored to be one of the finalists of 2025 Sloan Metascience and AI Postdoctoral Fellow, many thanks to [Richmond Wong](https://richmondywong.com).
 - (2024 Oct) Invited by the Digital Life Initiative at Cornell Tech to present my previous and ongoing work on the relationship between Machine Learning research practice reform and the social impact of ML-based technologies.
 - (2024 Aug) Passed my comprehensive exam, officially a PhD candidate.
-- My FAccT paper has been featured by the College of Information Sciences and Technology at Penn State. Read the story [here](https://ist.psu.edu/news/claim-replicability-may-help-prevent-harms-caused-by-ml).
+- (2024 Jul) My FAccT paper has been featured by the College of Information Sciences and Technology at Penn State. Read the story [here](https://ist.psu.edu/news/claim-replicability-may-help-prevent-harms-caused-by-ml).
+- (2024 Jun) Presented my **first and solo authored paper** "From Model Performance Replicability to Claim Replicability" at 2024 ACM Conference Fairness Accountability and Transparency at Rio de Janeiro, Brazil. [Article](https://arxiv.org/pdf/2404.13131?) or [TL;DR](https://x.com/koutianqi1/status/1782586574850449812).
  
 <details class="older-updates" markdown="1">
 <summary>Older updates</summary>
-- (2024 Jun) Presented my **first and solo authored paper** "From Model Performance Replicability to Claim Replicability" at 2024 ACM Conference Fairness Accountability and Transparency at Rio de Janeiro, Brazil. [Article](https://arxiv.org/pdf/2404.13131?) or [TL;DR](https://x.com/koutianqi1/status/1782586574850449812).
 - (2024 May) Attended NortheastHCI Conference (an alternative to CHI 2024) at Pittsburgh, PA.
 - (2024 Apr) Received ACM FAccT'24 Travel Award.
 - (2024 Mar) Received Dean's Travel Award.
