@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Research"
+title: "Tianqi studies AI hype and communication norms."
 description: "Tianqi studies AI hype and communication norms."
 ---
 <div class="research-page" markdown="1">
