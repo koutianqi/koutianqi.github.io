@@ -9,7 +9,7 @@ title: "Tianqi Kou"
   <h2 class="mobile-only"><strong>ABOUT ME</strong></h2>
 
     
-**I study the construction and mitigation of AI hype within the communicative dimension of the machine learning ecosystem.** Using philosophical and qualitative methods, I (1) analyze how hype emerges as claims about contributions and capabilities circulate through interconnected communities and (2) develop norms of responsible communication to counter it. Currently, I situate this inquiry in the context of carceral AI.
+**I study the construction and mitigation of AI hype within the communicative dimension of the machine learning ecosystem.** Using philosophical and qualitative methods, I (1) analyze how hype emerges as claims about contributions and capabilities circulate through interconnected communities and (2) develop norms of responsible communication to counter it. Currently, I situate this inquiry in the context of carceral AI. Look [here](https://koutianqi.info/pages/research/) for details of my research.
 
 
   </div>
@@ -17,7 +17,7 @@ title: "Tianqi Kou"
 </div>
 
 <div class="job-market-box" markdown="1">
-🌟 <ins>I am on the job market seeking postdoc positions</ins> centering (1) philosophical and empirical analyses of responsible communication in Machine Learning, and (2) the policy and regulatory possibilities that follow. If you know a good fit, please reach out to me at, tfk@psu.edu. Details about my previous and ongoing projects - [HERE](https://koutianqi.github.io/pages/research/).
+🌟 <ins>I am on the job market seeking postdoc positions</ins> centering (1) philosophical and empirical analyses of responsible communication in Machine Learning, and (2) the policy and regulatory possibilities that follow. If you know a good fit, please reach out to me at tfk5237@psu.edu.
 </div>
 
 <!--- and --->
