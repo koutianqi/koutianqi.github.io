@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="description" content="{{ page.description | default: site.description }}" />
+    <meta property="og:title" content="{{ page.title | default: site.title }}" />
+    <meta property="og:description" content="{{ page.description | default: site.description }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ page.url | absolute_url }}" />
+    <link rel="canonical" href="{{ page.url | absolute_url }}" />
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Tianqi Kou",
+      "url": "{{ site.url }}",
+      "sameAs": [
+        "https://scholar.google.com/citations?user=WpSm_A8AAAAJ&hl=en",
+        "https://bsky.app/profile/koutianqi.bsky.social",
+        "https://www.linkedin.com/in/koutianqi/"
+      ],
+      "jobTitle": "Researcher",
+      "description": "{{ site.description }}"
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "{{ site.title }}",
+      "url": "{{ site.url }}",
+      "description": "{{ site.description }}"
+    }
+    </script>
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/img/favicon-32x32.png' | relative_url }}?v={{ site.time | date: '%s' }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/img/favicon-16x16.png' | relative_url }}?v={{ site.time | date: '%s' }}">
+    <link rel="shortcut icon" href="{{ '/favicon.ico' | relative_url }}?v={{ site.time | date: '%s' }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/img/apple-touch-icon.png' | relative_url }}?v={{ site.time | date: '%s' }}">
+    <meta name="theme-color" content="#2a7ae2">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300..800;1,9..40,300..800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="{{ "/assets/css/styles.css" | relative_url }}" />
+  </head>
+  <body>
+    <header class="site-header simple-header">
+      <div class="container">
+        <div class="simple-brand">
+          <a class="brand-link" href="{{ "/" | relative_url }}">TIANQI KOU | 寇 天琦</a>
+        </div>
+        <nav class="simple-nav" aria-label="Primary">
+          <a href="{{ "/pages/bio" | relative_url }}" class="{% if page.url contains "/pages/bio" %}active{% endif %}" aria-current="{% if page.url contains "/pages/bio" %}page{% endif %}">BIO</a>
+          <a href="{{ "/pages/research" | relative_url }}" class="{% if page.url contains "/pages/research" %}active{% endif %}" aria-current="{% if page.url contains "/pages/research" %}page{% endif %}">RESEARCH</a>
+          <a href="{{ "/pages/cv" | relative_url }}" class="{% if page.url contains "/pages/cv" %}active{% endif %}" aria-current="{% if page.url contains "/pages/cv" %}page{% endif %}">CV</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="site-main">
+      {{ content }}
+      <section id="contact" class="section">
+        <div class="container">
+          <div class="contact-follow">
+            <div class="contact-col">
+              <h2>Contact</h2>
+              <ul class="contact-list">
+                <li><img class="icon" src="{{ "/assets/img/email-icon-orange.png" | relative_url }}" alt="" /> tfk5237@psu.edu</li>
+              </ul>
+            </div>
+            <div class="follow-col">
+              <h2>Follow</h2>
+              <ul class="social-list social-grid">
+                <li><a href="https://scholar.google.com/citations?user=WpSm_A8AAAAJ&hl=en" aria-label="Google Scholar"><img class="icon" src="{{ "/assets/img/social-icon-orange.png" | relative_url }}" alt="" />GoogleScholar</a></li>
+                <li><a href="#" aria-label="arXiv"><img class="icon" src="{{ "/assets/img/social-icon-orange.png" | relative_url }}" alt="" />arXiv</a></li>
+                <li><a href="https://bsky.app/profile/koutianqi.bsky.social" aria-label="Bluesky"><img class="icon" src="{{ "/assets/img/social-icon-orange.png" | relative_url }}" alt="" />Bluesky</a></li>
+                <li><a href="https://www.linkedin.com/in/koutianqi/" aria-label="LinkedIn"><img class="icon" src="{{ "/assets/img/social-icon-orange.png" | relative_url }}" alt="" />LinkedIn</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p>© <span id="year"></span> Tianqi Kou</p>
+      </div>
+    </footer>
+
+    <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
+  </body>
+  </html>
+
+
