@@ -1,0 +1,21 @@
+title: "Tianqi Kou"
+url: "https://koutianqi.info"
+baseurl: ""
+markdown: kramdown
+theme: null
+plugins: []
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+permalink: pretty
+
+# Site variables
+cv_available: true
+cv_pdf: "/assets/Tianqi Kou CV-2.pdf"
+description: "Tianqi Kou studies AI hype, responsible communication in machine learning, and carceral AI."
+
+# Feature flags
+show_teaching: false
+
