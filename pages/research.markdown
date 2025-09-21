@@ -47,7 +47,7 @@ _Rather than viewing hype as individuals' actions, I examine it as a relational 
 
 
 ### II. Enforcing Responsible Communication Norms
-_A core issue in the scholarship on socially responsible computing is translating conceptual understandings & tools into practical solutions. A key strand of my future research is translating my theorization into practical tools, policies, and legal frameworks. To this end, my work in progress identifies conceptual and practical challenges in enforcing solutions I've proposed._
+_A core challenge in socially responsible computing is translating concepts into practice. My future research focuses on operationalizing my theorization into tools, policies, and legal frameworks, while identifying the conceptual and practical obstacles to enforcing these solutions._
 
 
 <div class="pubs">
