@@ -32,11 +32,11 @@ description: "I study the construction and mitigation of AI hype within the comm
 
 - I presented Work-in-Progress (w/ [Dana Calacci](https://www.dcalacci.net), [Nasser Eledroos](https://nasser.wiki), [David Gray Widder](https://davidwidder.me), [Dasha Pruss](https://www.dashapruss.com)) titled "A Relational Conception of AI Hype in AI-Based Tools in Policing Context" that was accepted to the [Hype Studies Conference](https://hypestudies.org/conference) in Barcelona, Spain, slides avaible upon chat.
 - (2025 Jul) Lead author paper (w/ [Dana Calacci](https://www.dcalacci.net) and [Cindy Lin](https://lincindy.com)) has been accepted to 2025 proceedings of ACM/AAAI AI Ethics and Society which will be held in Madrid, Spain from Oct 20th to 22nd. This paper delineats the epistemic conditions of ML that resist meaningful accountability for the communicative dimension of ML research. [Preprint](https://arxiv.org/abs/2508.08739) or [TL;DR](https://www.linkedin.com/posts/koutianqi_dead-zone-of-accountability-why-social-claims-activity-7361214088003108864-3aJR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACPLLPcBeEM19ytgUOpXQQb6x_SjOdrvjtQ).
-- (2025 May) I will attend the Privacy Law Scholar Conference at UCLA this year! Fascinating discussions with [Rohan Grover](https://www.rohangrover.org) on his WIP on politics of expertise, and [Amina Abdu](https://aminaxabdu.github.io) and [Abigail Jacob's](https://azjacobs.com) (now forthcoming) law review article on standard as metaphor!
+- (2025 May) I will attend the Privacy Law Scholar Conference at UCLA this year! Fascinating discussions with Rohan Grover on his WIP on politics of expertise, and Amina Abdu and Abigail Jacob's (now forthcoming) law review article on standard as metaphor!
 - (2025 May) Honored to be one of the finalists of 2025 Sloan Metascience and AI Postdoctoral Fellow, many thanks to [Richmond Wong](https://richmondywong.com).
 - (2024 Oct) Invited by the Digital Life Initiative at Cornell Tech to present my previous and ongoing work on the relationship between Machine Learning research practice reform and the social impact of ML-based technologies.
 - (2024 Aug) Passed my comprehensive exam, officially a PhD candidate.
-- My FAccT paper has been featured by the College of Information Sciences and Technology at Penn State. Read the story [here](https://ist.psu.edu/news/claim-replicability-may-help-prevent-harms-caused-by-ml)!
+- My FAccT paper has been featured by the College of Information Sciences and Technology at Penn State. Read the story [here](https://ist.psu.edu/news/claim-replicability-may-help-prevent-harms-caused-by-ml).
  
 <details class="older-updates" markdown="1">
 <summary>Older updates</summary>
