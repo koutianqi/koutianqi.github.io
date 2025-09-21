@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "CV"
+title: "Tianqi-CV"
 description: "Tianqi studies AI hype and communication norms."
 ---
 
