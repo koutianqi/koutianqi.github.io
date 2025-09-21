@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Bio"
+title: "Tianqi Kou - Bio"
 description: "Tianqi studies AI hype and communication norms."
 ---
 
