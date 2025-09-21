@@ -63,7 +63,7 @@ _A core challenge in socially responsible computing is translating concepts into
   title="Defend or Desert: Navigating the Epistemological Tension Between Claim Accuracy and the Value of Uncertainty in Machine Learning Research."
   authors="Tianqi Kou"
   venue="Work in Progress"
-  tldr="[TL;DR] This paper examines if a tradeoff between scrutinizing machine learning research social claims and research progress exist, and its implications for the argument for justifying social claim in ML research."
+  tldr="[TL;DR] This paper examines if a tradeoff between scrutinizing machine learning research social claims and research progress exists, and its implications for the argument for justifying social claim in ML research."
 %}
 </div>
 
