@@ -1,0 +1,21 @@
+title: "Tianqi Kou"
+url: "https://koutianqi.info"
+baseurl: ""
+markdown: kramdown
+theme: null
+plugins: [jekyll-sitemap]
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+permalink: pretty
+
+# Site variables
+cv_available: true
+cv_pdf: "/assets/Tianqi Kou CV-2.pdf"
+description: "Tianqi studies AI hype and communication norms."
+
+# Feature flags
+show_teaching: false
+
