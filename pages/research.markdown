@@ -6,8 +6,8 @@ title: "Research"
 ### PAPERS & SELECTED WORK-IN-PROGRESS
 <p class="research-intro">Below are my past and on-going work as well as existing puzzles. Note: In computer and information science, papers published in major conference proceedings are double-anonymously peer reviewed and recognized as equivalent research contributions to journal articles. For multi-authored work, * indicates lead author.</p>
 
-### I. Machine Learning Research Communication
-_Machine Learning research are deeply tied to downstream impacts, yet their “foundational” research is often hard to link directly to harms. This raises the question of how they should balance producing general knowledge with taking responsibility for the social effects their research enables. I address this by developing normative arguments and conceptual tools for accountability through research communication._
+### I. Accountability for Machine Learning Research Social Claims
+_Machine Learning research are deeply tied to downstream impacts, yet their “foundational” research is often hard to link directly to downstream harms. This raises the question of how they should balance producing general knowledge with taking responsibility for the social impacts their research enables. I address this by developing normative arguments and conceptual tools for accountability through research communication._
 
 <div class="pubs">
 {% include paper.html
@@ -29,7 +29,7 @@ _Machine Learning research are deeply tied to downstream impacts, yet their “f
 %}
 </div>
 
-### II. Technology Capabilities Communication
+### II. Accountability for Communicating Machine Learning Technology Capability
 _From early rule-based algorithms to today’s large-scale architectures, Machine Learning has fueled AI tools across diverse domains. Yet premature adoptions have produced both cultural harms, like hype, and concrete harms, like inequity in policing and exploitation in marketing. I study how harms emerge from stakeholder communication about technological capabilities in concrete contexts—such as AI tools in policing—and develop strategies for mitigating them through responsible communication._
 
 
@@ -43,7 +43,7 @@ _From early rule-based algorithms to today’s large-scale architectures, Machin
 %}
 </div>
 
-### III. Enforcing Responsible Communication
+### III. Enforcing Responsible Communication Norms
 _A core issue in the scholarship on socially responsible computing is translating conceptual understandings & tools into practical solutions. A key strand of my future research is translating my theorization into practical tools, policies, and legal frameworks._
 
 
