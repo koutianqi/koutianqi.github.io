@@ -8,7 +8,7 @@ description: "Tianqi studies AI hype and communication norms."
 <p class="research-intro">Below are my past and on-going work as well as existing puzzles. Note: In computer and information science, papers published in major conference proceedings are double-anonymously peer reviewed and recognized as equivalent research contributions to journal articles. For multi-authored work, * indicates lead author.</p>
 
 ### I. Accountability for Machine Learning Research Social Claims
-_Machine Learning research are deeply tied to downstream impacts, yet their “foundational” research is often hard to link directly to downstream harms. This raises the question of how they should balance producing general knowledge with taking responsibility for the social impacts their research enables. I address this by developing normative arguments and conceptual tools for accountability through research communication._
+_Machine Learning research enables downstream applications, yet its “foundational” and "general-purpose" nature makes it hard to link it directly to downstream harms. Should ML scientists be accountable for social impacts and how? I address this by developing normative arguments and conceptual tools for accountability around research communication._
 
 <div class="pubs">
 {% include paper.html
