@@ -64,7 +64,6 @@ _A core issue in the scholarship on socially responsible computing is translatin
   authors="Tianqi Kou"
   venue="Work in Progress"
   tldr="[TL;DR] This paper examines if a tradeoff between scrutinizing machine learning research social claims and research progress exist, and its implications for the argument for justifying social claim in ML research."
-  abstract=""
 %}
 </div>
 
