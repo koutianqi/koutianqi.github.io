@@ -10,7 +10,7 @@ description: "I study the construction and mitigation of AI hype within the comm
   <h2 class="mobile-only"><strong>ABOUT ME</strong></h2>
 
     
-**I study the construction and mitigation of AI hype through claims about machine learning research and technology.** Using philosophical and qualitative methods, I (1) analyze how hype emerges as claims about contributions and capabilities circulate through interconnected communities and (2) develop norms of responsible communication to counter it.
+**I study the construction and mitigation of AI hype in carceral AI through claims about machine learning research and technology.** Using philosophical and qualitative methods, I (1) analyze how hype emerges as claims about contributions and capabilities circulate through interconnected communities and (2) develop norms of responsible communication to counter it.
 
   </div>
   <img class="headshot" src="{{ "/assets/img/headshot_crop.jpg" | relative_url }}" alt="Headshot" />
