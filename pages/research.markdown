@@ -10,7 +10,7 @@ description: "Tianqi studies AI hype and communication norms."
   For multi-authored work, * indicates lead author.</p>
 
 ### I. Relational Hype and Social Claims
-_Rather than viewing hype as individuals' actions, I examine it as a relational phenomenon resulted from how social claims about machine learning circulate across a network of communities—scientists, vendors, adopters, civic groups, regulators, and general public. My work has developed normative arguments for enforcing communication norms and provided conceptual tools to guide their development and implementation, responding to puzzles in AI accountability and governance._
+_False and exagerated claims circulate across communities involved in knowledge production and technology production, I examine how hype is generated in the communication network. My work has developed normative arguments for enforcing communication norms and provided conceptual tools to guide their development and implementation, responding to puzzles in AI accountability and governance._
 
 <div class="pubs">
 {% include paper.html
