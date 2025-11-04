@@ -51,8 +51,7 @@ _Unjustified and exaggerated claims permeate ML research and technology producti
 
 
 ### II. Enforcing Responsible Communication Norms
-_A core challenge in socially responsible computing is translating concepts into practice. My future research focuses on operationalizing my theorization into tools, policies, and legal frameworks, while identifying the conceptual and practical obstacles to enforcing these solutions._
-
+_Translating concepts into practice remains a core challenge in AI governance. My research operationalizes theory into tools, policies, and legal frameworks, and analyzes the obstacles to their implementation._
 
 <div class="pubs">
   {% include paper.html
