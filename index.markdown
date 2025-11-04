@@ -10,7 +10,7 @@ description: "I study the construction and mitigation of AI hype through claims 
   <h2 class="mobile-only"><strong>ABOUT ME</strong></h2>
 
     
-I study the **construction and mitigation of AI hype** in policing technologies **through claims in machine learning research and about technology capabilities**. A PhD candidate trained in philosophy of science, I adopt philosophical and qualitative methods to develop and enforce norms of responsible communication. I am always open to collaborations, reach out!
+I study the c**onstruction and mitigation of AI hype** in policing technologies **through claims in machine learning research and about technological capabilities**. I’m a PhD candidate trained in philosophy of science, using philosophical and qualitative methods to develop and enforce norms of responsible communication. I’m always open to collaborations—reach out!
 
   </div>
   <img class="headshot" src="{{ "/assets/img/headshot_crop.jpg" | relative_url }}" alt="Headshot" />
