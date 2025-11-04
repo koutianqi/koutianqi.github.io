@@ -16,7 +16,7 @@ description: "I study the construction and mitigation of AI hype through claims 
   <img class="headshot" src="{{ "/assets/img/headshot_crop.jpg" | relative_url }}" alt="Headshot" />
 </div>
 <div class="job-market-box" markdown="1">
-🌟 <ins>always open to collaborations, reach out to me to chat if you have ideas.
+
 </div>
 
 <!--- and --->
