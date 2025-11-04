@@ -760,6 +760,10 @@ details.paper-abstract p { margin: 6px 0 0; }
   margin-left: 0; /* align with container edge */
 }
 
+/* Research page: add space between intro paragraph and first paper block */
+.research-page .pubs { margin-top: 12px; }
+
+
 /* Paragraph spacing: match Updates entry spacing (6px) */
 .intro-hero .intro-copy p,
 .bio-block p { margin: 0 0 6px; }
