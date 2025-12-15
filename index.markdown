@@ -9,8 +9,7 @@ description: "I study the construction and mitigation of AI hype through claims 
   <h2 class="desktop-only"><strong>ABOUT ME</strong></h2>
   <h2 class="mobile-only"><strong>ABOUT ME</strong></h2>
 
-    
-I am a PhD candidate **(U.S. permanent resident)** studying the **construction and mitigation of AI hype through claims in machine learning research and about technological capabilities**. Trained in philosophy of science, I use philosophical methods to develop and enforce norms of responsible communication in machine learning research. I’m always open to collaborations—reach out!
+I am a PhD candidate **(U.S. permanent resident)** examining how the epistemic value of replicability in machine learning can be aligned with feminist values. Using philosophical and qualitative methods, I study how replicability can reform ML knowledge & technology production toward more responsible futures and reduce AI hype.
 
   </div>
   <img class="headshot" src="{{ "/assets/img/headshot_crop.jpg" | relative_url }}" alt="Headshot" />
