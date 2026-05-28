@@ -9,8 +9,7 @@ description: "I study the construction and mitigation of AI hype through claims 
   <h2 class="desktop-only"><strong>ABOUT ME</strong></h2>
   <h2 class="mobile-only"><strong>ABOUT ME</strong></h2>
 
-I am a PhD candidate studying the construction and mitigation of AI hype within the communicative dimension of the
-machine learning ecosystem. Using philosophical and qualitative methods, I analyze how hype emerges as claims about contributions and capabilities circulate through interconnected communities and develop norms of responsible communication to counter it.
+I am a PhD candidate studying the epistemic and ethical implications of social claims made in machine learning research. Trained in feminist science and technology studies, I examine how such claims circulate and contribute to AI hype, and I develop normative arguments and policy interventions to regulate them.
 
   </div>
   <img class="headshot" src="{{ "/assets/img/headshot_crop.jpg" | relative_url }}" alt="Headshot" />
@@ -28,7 +27,7 @@ machine learning ecosystem. Using philosophical and qualitative methods, I analy
 <div class="updates-block pubs" markdown="1">
 ## **UPDATES**
 <div class="updates" markdown="1">
-
+- I contributed an essay to [Issue 14 of PITTSBURGH FOREST/匹兹堡森林](https://mc-pony.com/pitforest/) titled [I Barely Dream In Chinese](https://mc-pony.com/pitforest/issue_14/articles/08-tianqi-kou).
 - I presented Work-in-Progress (w/ [Dana Calacci](https://www.dcalacci.net), [Nasser Eledroos](https://nasser.wiki), [David Gray Widder](https://davidwidder.me), [Dasha Pruss](https://www.dashapruss.com)) titled "A Relational Conception of AI Hype in AI-Based Tools in Policing Context" that was accepted to the [Hype Studies Conference](https://hypestudies.org/conference) in Barcelona, Spain, slides avaible upon chat.
 - (2025 Jul) Lead author paper (w/ [Dana Calacci](https://www.dcalacci.net) and [Cindy Lin](https://lincindy.com)) has been accepted to 2025 proceedings of ACM/AAAI AI Ethics and Society which will be held in Madrid, Spain from Oct 20th to 22nd. [Paper](https://ojs.aaai.org/index.php/AIES/article/view/36649) or [Proceeding Poster](https://drive.google.com/file/d/1opno1nLH7wun6IxEJQ85GNEzUy6ND7cf/view?usp=sharing).
 - (2025 May) I attended the Privacy Law Scholar Conference LA this year! Fascinating discussions with Rohan Grover on his WIP on politics of expertise, and Amina Abdu and Abigail Jacob's article on standard as metaphor!
