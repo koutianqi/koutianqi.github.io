@@ -9,7 +9,7 @@ description: "I study the construction and mitigation of AI hype through claims 
   <h2 class="desktop-only"><strong>ABOUT ME</strong></h2>
   <h2 class="mobile-only"><strong>ABOUT ME</strong></h2>
 
-I study the epistemology and politics of machine learning knowledge production. Trained in philosophy of science and feminist science and technology studies, I investigate conceptual and normative challenges related to harms and accountability in the development and circulation of machine learning knowledge.
+I am a Ph.D. candidate studying the epistemology and politics of machine learning knowledge production. Trained in philosophy of science and feminist science and technology studies, I investigate conceptual and normative challenges related to harms and accountability in the development and circulation of machine learning knowledge.
 
   </div>
   <img class="headshot" src="{{ "/assets/img/headshot_crop.jpg" | relative_url }}" alt="Headshot" />
