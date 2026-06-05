@@ -9,7 +9,7 @@ description: "I study the construction and mitigation of AI hype through claims 
   <h2 class="desktop-only"><strong>ABOUT ME</strong></h2>
   <h2 class="mobile-only"><strong>ABOUT ME</strong></h2>
 
-I am a PhD candidate studying the epistemic and ethical implications of social claims made in machine learning research. Trained in feminist science and technology studies, I examine how such claims circulate and contribute to AI hype, and I develop normative arguments and policy interventions to regulate them.
+I study the epistemology and politics of machine learning knowledge production. Trained in philosophy of science and feminist science and technology studies, I investigate conceptual and normative challenges related to harms and accountability in the development and circulation of machine learning knowledge.
 
   </div>
   <img class="headshot" src="{{ "/assets/img/headshot_crop.jpg" | relative_url }}" alt="Headshot" />
