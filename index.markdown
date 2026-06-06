@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Tianqi Kou | Tianqi studies AI hype and communication norms."
-description: "I study the construction and mitigation of AI hype through claims in machine learning research and about machine learning technology."
+title: "Tianqi Kou | Tianqi studies AI hype and non-accountability."
+description: "I study the epistemic culture of non-accountability and hype in the AI/ML ecosystem."
 ---
 
 <div class="intro-hero card">
@@ -9,7 +9,7 @@ description: "I study the construction and mitigation of AI hype through claims 
   <h2 class="desktop-only"><strong>ABOUT ME</strong></h2>
   <h2 class="mobile-only"><strong>ABOUT ME</strong></h2>
 
-I am a Ph.D. candidate studying the epistemology and politics of machine learning knowledge production. Trained in philosophy of science and feminist science and technology studies, I investigate conceptual and normative challenges related to harms and accountability in the development and circulation of machine learning knowledge.
+I am a Ph.D. candidate studying the epistemic culture of non-accountability and hype in the AI/ML ecosystem. Trained in philosophy of science and feminist science and technology studies, I combine philosophical analysis and qualitative methods to identify the structural and epistemic conditions that produce and sustain this culture.
 
   </div>
   <img class="headshot" src="{{ "/assets/img/headshot_crop.jpg" | relative_url }}" alt="Headshot" />
