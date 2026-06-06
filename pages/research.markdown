@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Tianqi studies AI hype and communication norms."
-description: "Tianqi studies AI hype and communication norms."
+title: "Tianqi studies AI hype and non-accountability."
+description: "Tianqi studies AI hype and non-accountability."
 ---
 <div class="research-page" markdown="1">
 ### PAPERS & SELECTED WORK-IN-PROGRESS
