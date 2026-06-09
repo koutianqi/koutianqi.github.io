@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tianqi-CV"
-description: "Tianqi studies AI hype and non-accountability."
+description: "Tianqi studies hype and accountability in AI/ML ecosystem."
 ---
 
 <div class="cv-page" markdown="1">
