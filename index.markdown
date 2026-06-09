@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tianqi Kou | Tianqi studies AI hype and accountability."
-description: "I study the AI hype and accountability in AI/ML ecosystem."
+description: "I study hype and accountability in AI/ML ecosystem."
 ---
 
 <div class="intro-hero card">
