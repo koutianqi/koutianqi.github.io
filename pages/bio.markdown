@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tianqi Kou-Bio"
-description: "Tianqi studies AI hype and non-accountability."
+description: "Tianqi studies hype and accountability in AI/ML ecosystem."
 ---
 
 <div class="bio-page pubs" markdown="1">
