@@ -17,7 +17,7 @@ Drawing on Philosophy of Science and Science and Technology Studies, my research
   <img class="headshot" src="{{ "/assets/img/headshot_crop.jpg" | relative_url }}" alt="Headshot" />
 </div>
 <div class="job-market-box" markdown="1">
-:exclamation: I am actively seeking postdoc and faculty positions in Philosophy of AI and Ethics of Computing.
+:exclamation: I am actively seeking postdoc and faculty positions in Information Science, Philosophy, ST&S, and Computer Science, focusing on philosophy, ethics, politics, and policy in computing.
 </div>
 
 <!--- and --->
