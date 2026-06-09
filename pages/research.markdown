@@ -54,13 +54,6 @@ _Unjustified and exaggerated claims permeate ML research and technology producti
 _Translating concepts into practice remains a core challenge in AI governance. My research operationalizes theory into tools, policies, and legal frameworks, and analyzes the obstacles to their implementation._
 
 <div class="pubs">
-  {% include paper.html
-  title="Integrating Social Claim in Machine Learning Research: Challenges and Opportunities"
-  authors="Tianqi Kou*, Dana Calacci"
-  venue="Work in Progress"
-  tldr="> This paper explores ways to incorporate social claims into machine learning core methodology."
-  abstract="[working abstract] In machine learning (ML) research, broad social claims about potential societal benefits or harms are often made without clear articulation of scope, supporting evidence, or context, limiting both transparency and foresight for application harms. This paper proposes a path toward new forms of ML accountability by focusing on the concept of social claim replicability: the ability to systematically document, organize, and evaluate the evidence supporting social claims. First, we developed a social claim typology with a list of commonly cited supporting evidence to guide the articulation and substantiation of claims. Second, we proposed evidence diagram for systematizing supporting evidence, thereby improving clarity and rigor of research communication. By integrating these approaches, we aim to create conditions for establishing social claim accountability in ML research."
-%}
   
   {% include paper.html
   title="Defend or Desert: Navigating the Epistemological Tension Between Claim Accuracy and the Value of Uncertainty in Machine Learning Research."
