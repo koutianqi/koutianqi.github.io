@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Tianqi Kou | Tianqi studies AI hype and non-accountability."
-description: "I study the epistemic culture of non-accountability and hype in the AI/ML ecosystem."
+title: "Tianqi Kou | Tianqi studies AI hype and accountability."
+description: "I study the AI hype and accountability in AI/ML ecosystem."
 ---
 
 <div class="intro-hero card">
