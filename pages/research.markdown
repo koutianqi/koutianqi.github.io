@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tianqi studies hype and accountability in AI/ML ecosystem."
-description: "Tianqi studies AI hype and accountability in AI/ML ecosystem."
+description: "Tianqi studies hype and accountability in AI/ML ecosystem."
 ---
 <div class="research-page" markdown="1">
 ### PAPERS & SELECTED WORK-IN-PROGRESS
