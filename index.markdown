@@ -11,7 +11,7 @@ description: "I study hype and accountability in AI/ML ecosystem."
 
 I am a Ph.D. candidate at the [College of Information Sciences and Technology](https://ist.psu.edu/about) at [Penn State University](https://www.psu.edu), advised by [Dr. Dana Calacci](https://www.dcalacci.net).
 
-AI is routinely framed as transformative, yet its social benefits and technical functionalities often fall short of expectations. There exists little understanding of the **underlying epistemic and institutional values, norms, and practices** that **systematically** sustain harmful hype while obscuring responsibility for its production and consequences. My research bridges this gap.
+AI is routinely framed as transformative, yet its social benefits and technical functionalities often fall short of expectations. There is little understanding of **what underlying epistemic and institutional values, norms, and practices systematically sustain harmful hype while obscuring responsibility for its production and consequences**. My research bridges this gap.
 
   </div>
   <img class="headshot" src="{{ "/assets/img/headshot_crop.jpg" | relative_url }}" alt="Headshot" />
