@@ -11,7 +11,9 @@ description: "I study hype and accountability in AI/ML ecosystem."
 
 I am a Ph.D. candidate at the [College of Information Sciences and Technology](https://ist.psu.edu/about) at [Penn State University](https://www.psu.edu), where my research focuses on tackling the challenges of **harmful hype** and **lack of accountability** in AI and Machine Learning ecosystems.
 
-My research reveals and addresses the **underlying epistemic and institutional values, norms, and practices** that **systematically** sustain AI hype while obscuring responsibility for its production and consequences. I am advised by [Dr. Dana Calacci](https://www.dcalacci.net).
+There exists little understanding of the **underlying epistemic and institutional values, norms, and practices** that **systematically** sustain AI hype while obscuring responsibility for its production and consequences. My research bridges this gap. 
+
+I am advised by [Dr. Dana Calacci](https://www.dcalacci.net).
 
   </div>
   <img class="headshot" src="{{ "/assets/img/headshot_crop.jpg" | relative_url }}" alt="Headshot" />
