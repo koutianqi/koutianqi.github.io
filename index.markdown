@@ -9,7 +9,7 @@ description: "I study hype and accountability in AI/ML ecosystem."
   <h2 class="desktop-only"><strong>ABOUT ME</strong></h2>
   <h2 class="mobile-only"><strong>ABOUT ME</strong></h2>
 
-I am a Ph.D. candidate at the [College of Information Sciences and Technology](https://ist.psu.edu/about) at [Penn State University](https://www.psu.edu), advised by [Dr. Dana Calacci](https://www.dcalacci.net). I have interdisciplinary training in computer science, philosophy of science, and science and technology studies (STS).
+I am a Ph.D. candidate at the [College of Information Sciences and Technology](https://ist.psu.edu/about) at [Penn State University](https://www.psu.edu), advised by [Dr. Dana Calacci](https://www.dcalacci.net). I have interdisciplinary training in computer science, philosophy, and science and technology studies (STS).
 
 **AI hype persists despite rampant harms and functionality failures**. Using philosophical, STS, and qualitative methods, my research **explains this persistence** by identifying the epistemic and institutional values and norms that sustain hype while obscuring accountability and **addresses this persistence** with conceptual and practical solutions.
 
