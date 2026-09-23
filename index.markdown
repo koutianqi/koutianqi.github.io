@@ -11,7 +11,7 @@ description: "I study hype and accountability in AI/ML ecosystem."
 
 I am a Ph.D. candidate advised by [Dr. Dana Calacci](https://www.dcalacci.net). I have interdisciplinary training in history and philosophy of science and technology, mathematics, and computer science.
 
-**AI hype persists despite societal harms, functionality failures, and errors in AI-based sciences**. My research **explains AI hype** through epistemic values and political-economic norms and **addresses it** with conceptual and practical solutions. I use philosophical, Science and Technology Studies, and qualitative methods.
+**AI hype persists despite societal harms, functionality failures, and errors in AI-Based sciences**. My research **explains AI hype** through epistemic values and political-economic norms and **addresses it** with conceptual and practical solutions. I use philosophical, Science and Technology Studies, and qualitative methods.
 
   </div>
   <img class="headshot" src="{{ "/assets/img/headshot_crop.jpg" | relative_url }}" alt="Headshot" />
